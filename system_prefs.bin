@@ -818,6 +818,6 @@ http://live.yt-hls.workers.dev/UC0LzwfdVoZSQDtauDjJS8_A.m3u8
 http://live.yt-hls.workers.dev/UCUd3o920A_ijCRaTRRg8LSg.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="SuperTurk.tr" tvg-logo="https://cdn.technettv.com/channel/33972/logo_256.png" ,SuperTurk
 https://boncuktvv.yalniz-senmi-zekisin.workers.dev/superturk
-#EXTINF:-1 group-title="Belgesel" tvg-id="Habitat.tr" tvg-logo="https://mediacat.com/wp-content/uploads/2021/01/habitat-tv.jpg" ,Belgesel
+#EXTINF:-1 group-title="Belgesel" tvg-id="Habitat.tr" tvg-logo="https://mediacat.com/wp-content/uploads/2021/01/habitat-tv.jpg" ,Habitat TV
 http://habitattv.streams-supersatforum.workers.dev/index.m3u8 
 
