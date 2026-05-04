@@ -818,4 +818,5 @@ http://live.yt-hls.workers.dev/UC0LzwfdVoZSQDtauDjJS8_A.m3u8
 http://live.yt-hls.workers.dev/UCUd3o920A_ijCRaTRRg8LSg.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="SuperTurk.tr" tvg-logo="https://cdn.technettv.com/channel/33972/logo_256.png" ,SuperTurk
 https://boncuktvv.yalniz-senmi-zekisin.workers.dev/superturk
-
+#EXTINF:-1 group-title="7/24 Youtube" tvg-id="Teleon.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/teleon-live.png" ,teleon
+https://live.tecostream.xyz/teleon.php/.m3u8
