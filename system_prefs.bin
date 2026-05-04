@@ -807,7 +807,7 @@ https://streams.uzunmuhalefet.com/stream/b63b0c43-c0c7-4d4c-bce1-add3c10ac09d.m3
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="SDMSinema.tr" tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" ,S D M Sinema Keyfi
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/9a5263de-ad43-49c9-8ad4-dc38e252873c.png" group-title="Haber",BENGÜTÜRK
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+http://tv.smartglwiz.workers.dev/?ID=BenguTurk_HD
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lqsLV-ZBCcJfoLsGQHBkrQCknqf8ZDXFHX7Nxna3PS82I" group-title="7/24 Youtube",Yeşilçam Eski Türk Filmleri
 http://live.yt-hls.workers.dev/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nO7M2e_I7Q4rk-xv0J6UGIiw9Ju7sYa_rKsFVpDTbxoA" group-title="7/24 Youtube",Zeki & Metin Filmleri
@@ -820,3 +820,13 @@ http://live.yt-hls.workers.dev/UCUd3o920A_ijCRaTRRg8LSg.m3u8
 https://boncuktvv.yalniz-senmi-zekisin.workers.dev/superturk
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="Teleon.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/teleon-live.png" ,teleon
 https://live.tecostream.xyz/teleon.php/.m3u8
+#EXTINF:-1 tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304632.png" group-title="Ulusal",N O W test
+http://tv.smartglwiz.workers.dev/?ID=Now_HD
+#EXTINF:-1 tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304475.png" group-title="Ulusal",T V 8 test
+http://tv.smartglwiz.workers.dev/?ID=TV8_HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0sOPBAP2kN1gvVFLtCVsLhOrcZApUxZG8njmWOj26lRbiVJ723731GtyKJl-LFjd2Q" group-title="Ulusal",S h o w test
+http://tv.smartglwiz.workers.dev/?ID=ShowTV_HD
+#EXTINF:-1 tvg-logo="http://yt3.googleusercontent.com/Ar9s9sZNclvmZN1l7GfIdnAQjh_ZkVhGMx6Dy5PHbq2keR9ijkPMFkk9VxZnIEnTf0MrXfSU4g" group-title="Ulusal",T R T 1 test
+http://tv.smartglwiz.workers.dev/?ID=TRT1_HD
+#EXTINF:-1 tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304551.png" group-title="Ulusal",S t a r test
+http://tv.smartglwiz.workers.dev/?ID=StarTV_HD
