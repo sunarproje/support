@@ -83,7 +83,7 @@ https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3
 https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Ulusal",Euro Star
 http://tv.smartglwiz.workers.dev/?ID=EuroStar_HD
-#EXTINF:0 CUID="39" tvg-name="TGRT EU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TGRT_EU.png" group-title="Ulusal - Yurt Dışı",TGRT EU
+#EXTINF:0 CUID="39" tvg-name="TGRT EU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5j-cBOoqgPSxXO1vYWN6dBbBns0fCIST5Jg&s.png" group-title="Ulusal - Yurt Dışı",TGRT EU
 http://208.79.153.167/inim03/live1/tgrteu/playlist.m3u8
 #EXTINF:0 CUID="40" tvg-name="Show Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/250px-Show_Turk_logo.png" group-title="Ulusal - Yurt Dışı",Show Türk
 https://streams.uzunmuhalefet.com/stream/16e43b9b-e175-482c-a105-2253c06515c9.m3u8
