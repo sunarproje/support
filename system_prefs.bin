@@ -864,12 +864,12 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg",Bloomberg Originals
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",Fox News (Preview)
-https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",Fox News
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC News
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC
-https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gCmb0Gt/msnbc.jpg",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/hFf6hc4T/fifaplus.jpg",FIFA+ English
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/hFf6hc4T/fifaplus.jpg",FIFA+ Spanish
