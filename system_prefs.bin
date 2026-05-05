@@ -2,11 +2,11 @@
 #EXTINF:0 CUID="1" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 #EXTINF:0 CUID="2" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/3840px-Atv_logo_2010.svg.png" group-title="Ulusal",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+http://79.76.41.101/Heryerde.php?ID=2401
 #EXTINF:0 CUID="3" tvg-name="Kanal D" tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="Ulusal",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 #EXTINF:0 CUID="4" tvg-name="NOW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/960px-NOW_TV_%28Turkey%29_wordmark-red.png" group-title="Ulusal",NOW TV
-http://104.238.23.221/dsgo.php?id=245997
+http://79.76.41.101/Heryerde.php?ID=2213
 #EXTINF:0 CUID="5" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/250px-Show_TV_logo.svg.png" group-title="Ulusal",Show TV
 https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
 #EXTINF:0 CUID="6" tvg-name="Beyaz TV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/beyaz-tv-tr.png" group-title="Ulusal",Beyaz TV
@@ -16,7 +16,7 @@ https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7_1080p.m3u8
 #EXTINF:0 CUID="8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV8
 https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8
 #EXTINF:0 CUID="9" tvg-name="Star TV" tvg-logo="https://images.seeklogo.com/logo-png/30/2/star-tv-logo-png_seeklogo-309642.png" group-title="Ulusal",Star TV
-http://79.76.41.101/Go.php?ID=245994
+http://79.76.41.101/Heryerde.php?ID=3404
 #EXTINF:0 CUID="10" tvg-name="360 TV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/360-tr.png" group-title="Ulusal",360 TV
 https://streams.uzunmuhalefet.com/stream/90fefbea-4a78-4f02-962f-2e1e4ad22f98.m3u8
 #EXTINF:0 CUID="11" tvg-name="TV 100" tvg-logo="https://play-lh.googleusercontent.com/k5wrikGyT1yvqKKf3k_7MoUNUaAYARF0rGDX1I_PBppuczYoT-eP52LUTuW6xZbpGvY" group-title="Ulusal",TV 100
@@ -222,7 +222,7 @@ https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3
 #EXTINF:0 CUID="109" tvg-name="Minika Go" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/minika-go-tr.png" group-title="Çocuk",Minika Go
 https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3u8
 #EXTINF:0 CUID="110" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="Çocuk",Cartoon Network
-http://161.118.166.5/Go.php?ID=246162
+http://79.76.41.101/Go.php?ID=246162
 #EXTINF:0 CUID="111" tvg-name="Çizgi Film TV" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/052/548/183/small_2x/kids-tv-logo-design-free-vector.jpg" group-title="Çocuk",Çizgi Film TV
 https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
 #EXTINF:-1 tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kabe_tv_h0h.png" group-title="Dini",KabeTV
