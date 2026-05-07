@@ -541,6 +541,8 @@ https://streams.uzunmuhalefet.com/stream/8e0a6839-3d99-4f19-8204-9e13d9407b86.m3
 https://streams.uzunmuhalefet.com/stream/91c26ecd-65c1-4c75-8a02-d08fae0fed2c.m3u8
 #EXTINF:0 CUID="267" tvg-name="KTV Konya" tvg-logo="https://assets.uzunmuhalefet.com/logos/95690e2b-7e3f-4bfa-bb9c-2ae949f369f6.png" group-title="Yerel",KTV Konya
 https://streams.uzunmuhalefet.com/stream/20e9a9b6-92aa-4168-b151-9a0a7f55012d.m3u8
+#EXTINF:0 CUID="267" tvg-name="tv42" tvg-logo="https://www.tv42haber.com/assets/logo.png" group-title="Yerel",tv42
+https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d_output_0.m3u8
 #EXTINF:0 CUID="268" tvg-name="Life TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/abea6219-cabb-4af4-8ddb-6b8925ffa62f.png" group-title="Yerel",Life TV
 https://streams.uzunmuhalefet.com/stream/d590d4e4-1f58-407f-924e-66dff25e0892.m3u8
 #EXTINF:0 CUID="269" tvg-name="Line TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/93e3b940-950f-4cfe-bae2-3f96d214bddb.png" group-title="Yerel",Line TV
