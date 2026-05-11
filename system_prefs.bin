@@ -22,7 +22,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 CUID="11" tvg-name="TV 100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="Ulusal",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:0 CUID="12" tvg-name="TYT Türk" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5eb025b3-2e0b-495f-ba36-1eca546ddd1e.png" group-title="Haber",TYT Türk
-https://streams.uzunmuhalefet.com/stream/7ca72bbc-449a-4521-80e2-b891f1964493.m3u8
+https://trn03.tulix.tv/gt-tytturk/index.m3u8
 #EXTINF:0 CUID="13" tvg-name="TRT Haber" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="14" tvg-name="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
