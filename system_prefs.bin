@@ -190,9 +190,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 #EXTINF:0 CUID="95" tvg-name="Number 1 Dance" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_Dance-1.png" group-title="Müzik",Number 1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:0 CUID="96" tvg-name="4 Türk Pop" tvg-logo="https://pic.rtbcdn.ru/video/93/2f/932f0ae97477a98a8ecdf02b46893a44.png" group-title="Müzik",4 Türk Pop
-https://streams.uzunmuhalefet.com/stream/031834d1-2c3c-4e76-9f54-bb8a6471bcb2.m3u8
-#EXTINF:0 CUID="97" tvg-name="Müzik TV" tvg-logo="https://images.seeklogo.com/logo-png/42/1/apple-music-logo-png_seeklogo-426386.png" group-title="Müzik",Müzik TV
-https://streams.uzunmuhalefet.com/stream/ba3f9a6d-85a8-4100-b716-95b98a2a3ab3.m3u8
+https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
+#EXTINF:0 CUID="97" tvg-name="Müzik TV" tvg-logo="https://ia.tmgrup.com.tr/7651ae/64/64/0/0/542/542?u=https://i.tmgrup.com.tr/724izle/2023/06/14/1686755685767.png" group-title="Müzik",Müzik TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/2.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://ia.tmgrup.com.tr/3ece16/64/64/7/0/550/542?u=https://i.tmgrup.com.tr/724izle/2023/06/14/1686755882468.png" tvg-url="https://www.turkuvapp.com/" tvg-id="ChillTV.tr",Chill TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/2.m3u8
 #EXTINF:0 CUID="97" tvg-name="Slow Karadeniz TV" tvg-logo="https://www.isfirmarehberi.com/upload/slow-karadeniz-tv-7943.jpg" group-title="Müzik",Slow Karadeniz TV
@@ -814,6 +814,10 @@ https://yayin.radyoarabesk.com.tr:8000/stream
 https://anadolu.liderhost.com.tr/9334/stream
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://ekerradyo.com/uploads/logom/xlogo_1.png" ,Eker Radyo
 https://anadolu.liderhost.com.tr/8066/stream
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.beydili.com.tr/uploads/haberler/thumb/Beydilii-Radyo-logo-new3_1.jpg" ,Beydili Radyo
+https://n227.ozelip.com/9310/stream
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.pazarcikfm.com.tr/uploads/sayfalar/PAZARCIK_DINLER1.png" ,Pazarcik FM
+https://anadolu.liderhost.com.tr:10936/;
 #EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://yazarokur-dizi-2025.s3.eu-central-1.amazonaws.com/siyah-beyaz-ask.jpg" tvg-url="https://www.kanald.com.tr/" tvg-id="SiyahBeyazAsk.tr",Siyah Beyaz Aşk
 https://streams.uzunmuhalefet.com/stream/729d9730-a07d-4fd0-9df8-32684fc9d14b.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/57a07fdfcbbf362c78dc1149.jpg" tvg-url="https://www.kanald.com.tr/" tvg-id="TatliIntikam.tr",Tatlı İntikam
