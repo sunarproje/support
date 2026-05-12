@@ -810,6 +810,10 @@ https://radyo34.radyotvonline.net/radyo34
 https://ritim.80.yayin.com.tr/;
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://radyoarabesk.com.tr/wp-content/uploads/2024/02/radyoarabesk_player_logo1-1.jpg" ,Radyo Arabesk
 https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.yenikoyfm.com/uploads/box/photos/yenilendik.jpg" ,Yeniköy FM
+https://anadolu.liderhost.com.tr/9334/stream
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://ekerradyo.com/uploads/logom/xlogo_1.png" ,Eker Radyo
+https://anadolu.liderhost.com.tr/8066/stream
 #EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://yazarokur-dizi-2025.s3.eu-central-1.amazonaws.com/siyah-beyaz-ask.jpg" tvg-url="https://www.kanald.com.tr/" tvg-id="SiyahBeyazAsk.tr",Siyah Beyaz Aşk
 https://streams.uzunmuhalefet.com/stream/729d9730-a07d-4fd0-9df8-32684fc9d14b.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/57a07fdfcbbf362c78dc1149.jpg" tvg-url="https://www.kanald.com.tr/" tvg-id="TatliIntikam.tr",Tatlı İntikam
