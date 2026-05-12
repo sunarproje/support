@@ -46,7 +46,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 CUID="23" tvg-name="Sözcü TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="Haber",Sözcü TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:0 CUID="24" tvg-name="Ekol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanal%C4%B1n%C4%B1n_Logosu.png" group-title="Haber",Ekol TV
-https://boncuktvv.yalniz-senmi-zekisin.workers.dev/ekoltv
+http://79.76.41.101/Go.php?ID=246255
 #EXTINF:0 CUID="25" tvg-name="TVNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png" group-title="Haber",TVNET
 http://79.76.41.101/Heryerde.php?ID=2905
 #EXTINF:0 CUID="26" tvg-name="TELE1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="Haber",TELE1
