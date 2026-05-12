@@ -818,6 +818,16 @@ https://anadolu.liderhost.com.tr/8066/stream
 https://n227.ozelip.com/9310/stream
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://www.pazarcikfm.com.tr/uploads/sayfalar/PAZARCIK_DINLER1.png" ,Pazarcik FM
 https://anadolu.liderhost.com.tr:10936/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.radyoekin.net/public/default/images/upload/3172121621321054.png" ,Radyo Ekin
+https://yayin.turkhosted.com/6006/stream
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://radyo44.com.tr/uploads/profilePhotos/1708203053471_416490582_indir%20(3).jpeg" ,Radyo 44
+https://radyo44.80.yayin.com.tr/steram
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://radyo51.com.tr/uploads/logom/xlogo_1.png" ,Radyo 51
+https://anadolu.liderhost.com.tr:10865/;
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.radyoduble.tr/assets/images/logo-footer-296x172.png" ,Radyo Duble
+https://radyo.yayindakiler.com:2044/; 
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.radyogun.com.tr/uploads/yayincilar/thumb/ana/zyro-image-removebg-preview.jpg" ,Radyo Gün
+https://ssl22.radyotelekom.com/8174/stream
 #EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://yazarokur-dizi-2025.s3.eu-central-1.amazonaws.com/siyah-beyaz-ask.jpg" tvg-url="https://www.kanald.com.tr/" tvg-id="SiyahBeyazAsk.tr",Siyah Beyaz Aşk
 https://streams.uzunmuhalefet.com/stream/729d9730-a07d-4fd0-9df8-32684fc9d14b.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/57a07fdfcbbf362c78dc1149.jpg" tvg-url="https://www.kanald.com.tr/" tvg-id="TatliIntikam.tr",Tatlı İntikam
