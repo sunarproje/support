@@ -16,7 +16,7 @@ https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7_1080p.m3u8
 #EXTINF:0 CUID="8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
 #EXTINF:0 CUID="9" tvg-name="Star TV" tvg-logo="https://images.seeklogo.com/logo-png/30/2/star-tv-logo-png_seeklogo-309642.png" group-title="Ulusal",Star TV
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8b7lgxw5regk&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:0 CUID="10" tvg-name="360 TV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/360-tr.png" group-title="Ulusal",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 CUID="11" tvg-name="TV 100" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="Ulusal",TV 100
@@ -34,7 +34,7 @@ https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:0 CUID="17" tvg-name="Habertürk" tvg-logo="https://im.haberturk.com/assets/brand-logo/haberturk-black.png" group-title="Haber",Habertürk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:0 CUID="18" tvg-name="Haber Global" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/9eadc435-f9b8-4284-bf32-61a3e13893a3.png" group-title="Haber",Haber Global
-http://79.76.41.101/Go.php?ID=246144
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Haber_Global_TV.m3u8
 #EXTINF:0 CUID="19" tvg-name="Ülke TV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/745cabe5-d7e2-4400-bbc6-61716baf129e.png" group-title="Haber",Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:0 CUID="20" tvg-name="Halk TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png" group-title="Haber",Halk TV
@@ -46,7 +46,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 CUID="23" tvg-name="Sözcü TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="Haber",Sözcü TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:0 CUID="24" tvg-name="Ekol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanal%C4%B1n%C4%B1n_Logosu.png" group-title="Haber",Ekol TV
-http://79.76.41.101/Go.php?ID=246255
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:0 CUID="25" tvg-name="TVNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png" group-title="Haber",TVNET
 http://79.76.41.101/Heryerde.php?ID=2905
 #EXTINF:0 CUID="26" tvg-name="TELE1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="Haber",TELE1
