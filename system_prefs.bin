@@ -450,7 +450,7 @@ https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 #EXTINF:0 CUID="221" tvg-name="ETV Manisa" tvg-logo="https://assets.uzunmuhalefet.com/logos/7a738603-0533-4cb2-a3cf-766aedb31b21.png" group-title="Yerel",ETV Manisa
 https://edge.taksimbilisim.com/manisaetv/bant1/chunks.m3u8
 #EXTINF:0 CUID="222" tvg-name="Euro News 34" tvg-logo="https://assets.uzunmuhalefet.com/logos/d14db511-4ce4-4ac8-8dbe-7c21ff86ca44.png" group-title="Yerel",Euro News 34
-https://streams.uzunmuhalefet.com/stream/582c37f9-1afd-4ad3-9bda-ab046bd9ea6b.m3u8
+https://euromediacenter.com/turkiye/euronews34-tv-5096-5096.html
 #EXTINF:0 CUID="223" tvg-name="FRT TV Fethiye" tvg-logo="https://assets.uzunmuhalefet.com/logos/64704a29-2fe5-4a17-853a-f2dc11ab0238.png" group-title="Yerel",FRT TV Fethiye
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
 #EXTINF:0 CUID="224" tvg-name="Gemlikin Sesi TV" tvg-logo="https://www.gemlikinsesitv.com/uploads/logo/gemlikust.png" group-title="Yerel",Gemlikin Sesi TV
@@ -460,7 +460,7 @@ https://yayin1.canlitv.fun/live/gozdetv.stream/chunklist_w1308797953.m3u8
 #EXTINF:0 CUID="226" tvg-name="GRT TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_49.png" group-title="Yerel",GRT TV
 https://live.artidijitalmedya.com/artidijital_grt/grt/playlist.m3u8
 #EXTINF:0 CUID="227" tvg-name="Güneydoğu TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/f7a57024-ee57-40bb-a43b-0c5fed572e2a.png" group-title="Yerel",Güneydoğu TV
-https://streams.uzunmuhalefet.com/stream/963f6691-6c09-405b-944a-95beb7167c67.m3u8
+https://euromediacenter.com/turkiye/guneydogu-tv-176-176.html
 #EXTINF:0 CUID="228" tvg-name="Haber 61 TV" tvg-logo="https://www.haber61.net/assets/logo.png" group-title="Yerel",Haber 61 TV
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 #EXTINF:0 CUID="229" tvg-name="Haber Rize" tvg-logo="https://www.haberrize.com.tr/uploads/logo-1732632177.png" group-title="Yerel",Haber Rize
@@ -468,7 +468,7 @@ https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="230" tvg-name="Hunat TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_55.png" group-title="Yerel",Hunat TV
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 #EXTINF:0 CUID="231" tvg-name="Hür TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/72ff9fbe-54cf-462d-bc37-040d66a92304.png" group-title="Yerel",Hür TV
-https://streams.uzunmuhalefet.com/stream/720f9625-6603-4bf0-a314-cf776b774ae3.m3u8
+https://euromediacenter.com/turkiye/hur-tv-5085-5085.html
 #EXTINF:0 CUID="232" tvg-name="İçel TV" tvg-logo="https://static.wixstatic.com/media/e4fbf0_386f98f2b8914868a6e1bd32e9c1e8fa.jpg/v1/fill/w_187,h_140,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/e4fbf0_386f98f2b8914868a6e1bd32e9c1e8fa.jpg" group-title="Yerel",İçel TV
 https://edge2.taksimbilisim.com/iceltv/bant1/chunks.m3u8
 #EXTINF:0 CUID="233" tvg-name="İlke TV" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="Yerel",İlke TV
