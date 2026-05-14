@@ -597,6 +597,8 @@ https://serhattv.streams-supersatforum.workers.dev/index.m3u8
 https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8
 #EXTINF:0 CUID="294" tvg-name="Sudurağı TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/89ac8ece-4e45-4993-9a4c-cc8a40f00ff3.png" group-title="Yerel",Sudurağı TV
 https://streams.uzunmuhalefet.com/stream/2d73fb92-500e-441e-b1ff-c74c9d931715.m3u8
+#EXTINF:0 CUID="294" tvg-name="Su TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_296.png" group-title="Yerel",Su TV
+https://live.artidijitalmedya.com/artidijital_sutv/sutv/chunks.m3u8
 #EXTINF:0 CUID="295" tvg-name="Sun RTV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_124.png" group-title="Yerel",Sun RTV
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:0 CUID="296" tvg-name="Sürmanşet Haber TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/42148d4d-5c96-4da0-93e0-55f86d8c4322.png" group-title="Yerel",Sürmanşet Haber TV
