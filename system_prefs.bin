@@ -874,7 +874,7 @@ http://79.76.41.101/Heryerde.php?ID=2401
 http://79.76.41.101/Heryerde.php?ID=2213
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png",S T A R / Test
 http://79.76.41.101/Heryerde.php?ID=3404
-#EXTINF:-1 group-title="TVHeryerde" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png",T V 8 / Test
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png",T V 8 / Test
 http://79.76.41.101/Heryerde.php?ID=2614
 #EXTINF:-1 group-title="Haber" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/-/Hw/246021/logo.png",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
