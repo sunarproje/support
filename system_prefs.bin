@@ -1,12 +1,12 @@
-#EXTM3U x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml" url-tvg="https://streams.uzunmuhalefet.com/epg/tr.xml" tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
+#EXTM3U
 #EXTINF:0 CUID="1" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 #EXTINF:0 CUID="2" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/3840px-Atv_logo_2010.svg.png" group-title="Ulusal",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+http://79.76.41.101/Go.php?ID=246030
 #EXTINF:0 CUID="3" tvg-name="Kanal D" tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="Ulusal",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 #EXTINF:0 CUID="4" tvg-name="NOW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/960px-NOW_TV_%28Turkey%29_wordmark-red.png" group-title="Ulusal",NOW TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+http://79.76.41.101/Go.php?ID=245997
 #EXTINF:0 CUID="5" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/250px-Show_TV_logo.svg.png" group-title="Ulusal",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:0 CUID="6" tvg-name="Beyaz TV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/beyaz-tv-tr.png" group-title="Ulusal",Beyaz TV
@@ -863,13 +863,17 @@ https://1a-1791.com/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="S TV" tvg-logo="" ,S TV
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304632.png" group-title="Ulusal",N O W test
-http://tv.smartglwiz.workers.dev/?ID=Now_HD
+http://79.76.41.101/Tivizon.php?ID=nowtv
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0sOPBAP2kN1gvVFLtCVsLhOrcZApUxZG8njmWOj26lRbiVJ723731GtyKJl-LFjd2Q" group-title="Ulusal",S h o w test
-http://tv.smartglwiz.workers.dev/?ID=ShowTV_HD
+http://79.76.41.101/Tivizon.php?ID=showtv
 #EXTINF:-1 tvg-logo="http://yt3.googleusercontent.com/Ar9s9sZNclvmZN1l7GfIdnAQjh_ZkVhGMx6Dy5PHbq2keR9ijkPMFkk9VxZnIEnTf0MrXfSU4g" group-title="Ulusal",T R T 1 test
 http://tv.smartglwiz.workers.dev/?ID=TRT1_HD
 #EXTINF:-1 tvg-logo="http://hd200.gliptv.com/menu/epg/imagesNew/cim_304551.png" group-title="Ulusal",S t a r test
-http://tv.smartglwiz.workers.dev/?ID=StarTV_HD
+http://79.76.41.101/Tivizon.php?ID=startv
+#EXTINF:-1 group-title="Ulusal" tvg-logo="http://yt3.ggpht.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",A T V test
+http://79.76.41.101/Tivizon.php?ID=atv
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnwqLdHqFXbkm6QwloGNJ1EX5N3Z8klIpdSF59MRbbLxU",T V 8 test
+http://79.76.41.101/Tivizon.php?ID=tv8
 #EXTINF:-1 group-title="Haber" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/-/Hw/246021/logo.png",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/I/xK/246084/logo.png",TRT Arabiya
