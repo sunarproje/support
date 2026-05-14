@@ -77,12 +77,14 @@ https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="36" tvg-name="TRT Avaz" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4a3026d6-b1be-4373-bb83-447117196e55.png" group-title="Ulusal - Yurt Dışı",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:0 CUID="37" tvg-name="ATV Avrupa" tvg-logo="https://iaatv.tmgrup.com.tr/fc4c52/620/409/0/0/2048/1352?u=https://iatv.tmgrup.com.tr/2018/07/17/atv-avrupa-yayin-hayatina-yeni-logosuyla-devam-ediyor-1531816406665.jpg" group-title="Ulusal - Yurt Dışı",ATV Avrupa
+#EXTINF:0 CUID="37" tvg-name="ATV Avrupa" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="Ulusal - Yurt Dışı",ATV Avrupa
 http://79.76.41.101/ATVGroup.php?ID=atvavrupa
 #EXTINF:0 CUID="38" tvg-name="Euro D" tvg-logo="https://eurod.kanald.com.tr/assets/img/logo.v5.png" group-title="Ulusal - Yurt Dışı",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Ulusal",Euro Star
 http://tv.smartglwiz.workers.dev/?ID=EuroStar_HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" group-title="Ulusal",TV8 int
+http://208.79.153.167/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:0 CUID="39" tvg-name="TGRT EU" tvg-logo="https://uydufrekanslari.tr/wp-content/uploads/2025/12/tgrt-eu-tr-300x208.png" group-title="Ulusal - Yurt Dışı",TGRT EU
 http://208.79.153.167/inim03/live1/tgrteu/playlist.m3u8
 #EXTINF:0 CUID="40" tvg-name="Show Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/250px-Show_Turk_logo.png" group-title="Ulusal - Yurt Dışı",Show Türk
@@ -127,7 +129,7 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 #EXTINF:0 CUID="62" tvg-name="Cine 1" tvg-logo="https://cine1.com.tr/img/cine1loogo.png" group-title="7/24 Youtube",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
-#EXTINF:0 CUID="64" tvg-name="beIN SPORTS HABER" tvg-logo="https://yt3.ggpht.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g" group-title="SPOR",beIN SPORTS HABER
+#EXTINF:0 CUID="64" tvg-name="beIN SPORTS HABER" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="SPOR",beIN SPORTS HABER
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:0 CUID="63" tvg-name="TRT Spor" tvg-logo="https://cdn.technettv.com/channel/20770/logo_256_1699963394.png" group-title="Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8?app=clean
@@ -643,12 +645,24 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 #EXTINF:0 CUID="315" tvg-name="Erzurum Web TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/7c837a96-f999-43a0-8e78-f1e48d34517a.png" group-title="Kurumlar",Erzurum Web TV
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
-#EXTINF:0 CUID="316" tvg-name="BRT 1" tvg-logo="https://assets.uzunmuhalefet.com/logos/b541d9f3-8991-46cc-a96e-1e8c99dd6f8e.png" group-title="Kıbrıs",BRT 1
+#EXTINF:0 CUID="316" tvg-name="BRT 1" tvg-logo="https://i.imgur.com/gOPAi2c.png" group-title="Kıbrıs",BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
-#EXTINF:0 CUID="317" tvg-name="BRT 2" tvg-logo="https://assets.uzunmuhalefet.com/logos/34fb31ce-3a6c-4d7b-b731-c7e08cc6c66a.png" group-title="Kıbrıs",BRT 2
+#EXTINF:0 CUID="317" tvg-name="BRT 2" tvg-logo="https://i.imgur.com/t5kbIuj.png" group-title="Kıbrıs",BRT 2
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
-#EXTINF:0 CUID="318" tvg-name="Ada TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/8d64858c-5307-409d-9c62-dcc98589c043.png" group-title="Kıbrıs",Ada TV
+#EXTINF:0 CUID="318" tvg-name="Ada TV" tvg-logo="https://i.imgur.com/YWmkUWU.png" group-title="Kıbrıs",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+#EXTINF:0 CUID="318" tvg-name="KUZEY KIBRIS TV" tvg-logo="https://kuzeykibris.tv/imgmenu/01000.png" group-title="Kıbrıs",KUZEY KIBRIS TV
+http://old.kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:0 CUID="318" tvg-name="KIBRIS GENC TV" tvg-logo="https://kibrisgenctvcom.teimg.com/kibrisgenctv-com/uploads/2023/11/logo-190x90-01.png" group-title="Kıbrıs" ,KIBRIS GENC TV
+https://edge.kuzeykibrissmart.tv/kibrisgenctv/bant1/chunks.m3u8
+#EXTINF:0 CUID="318" tvg-name="KTV-KIBRIS TV tvg-logo="https://kibristv.com/foto/ktv.png" group-title="Kıbrıs" ,KTV-KIBRIS TV
+https://edge.kuzeykibrissmart.tv/kibristv/bant1/chunks.m3u8
+#EXTINF:0 CUID="318" tvg-name="KANAL T KIBRIS" tvg-logo="https://kanaltcom.teimg.com/kanalt-com/uploads/2024/07/kanaltnewlogo-1.png" group-title="Kıbrıs" ,KANAL T KIBRIS
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
+#EXTINF:0 CUID="318" tvg-name="KSiM TV HD KIBRIS" tvg-logo="https://i.imgur.com/UHYJURw.png" group-title="Kıbrıs" ,SiM TV HD KIBRIS
+https://edge.kuzeykibrissmart.tv/simtv/bant1/chunks.m3u8
+#EXTINF:0 CUID="318" tvg-name="TV 2020 KIBRIS" tvg-logo="https://i.imgur.com/rtfsNdd.png" group-title="Kıbrıs" ,TV 2020 KIBRIS
+https://edge.kuzeykibrissmart.tv/tv2020/bant1/chunks.m3u8
 #EXTINF:0 CUID="1" tvg-name="TRT GENÇ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1adb913f-2b00-4886-92e8-0cbdb4cf8aed.png" group-title="Ulusal",TRT GENÇ
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTM3U
