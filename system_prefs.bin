@@ -168,7 +168,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:0 CUID="83" tvg-name="Power TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/power-tv-tr.png" group-title="Müzik",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:0 CUID="86" tvg-name="Kral Pop TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/kral-pop-tr.png" group-title="Müzik",Kral Pop TV
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+https://streams.uzunmuhalefet.com/stream/1604703d-b882-4ea0-9c4d-bc4ea1f0d463.m3u8
 #EXTINF:0 CUID="87" tvg-name="TMB TV" tvg-logo="https://tmb.tv/wp-content/uploads/2022/12/cropped-transparent-bg-shadow-designify.png" group-title="Müzik",TMB TV
 https://str.yodacdn.net/tmb_tr_app/playlist.m3u8?token=tmb_app_token_13579
 #EXTINF:0 CUID="88" tvg-name="Powertürk Taptaze" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_43.png?v4" group-title="Müzik",Powertürk Taptaze
