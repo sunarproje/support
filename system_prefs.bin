@@ -663,7 +663,7 @@ https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
 https://edge.kuzeykibrissmart.tv/simtv/bant1/chunks.m3u8
 #EXTINF:0 CUID="318" tvg-name="TV 2020 KIBRIS" tvg-logo="https://i.imgur.com/rtfsNdd.png" group-title="Kıbrıs" ,TV 2020 KIBRIS
 https://edge.kuzeykibrissmart.tv/tv2020/bant1/chunks.m3u8
-#EXTINF:0 CUID="1" tvg-name="TRT GENÇ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1adb913f-2b00-4886-92e8-0cbdb4cf8aed.png" group-title="Ulusal",TRT GENÇ
+#EXTINF:0 CUID="1" tvg-name="TRT GENÇ" tvg-logo="https://pokitv.com/wp-content/uploads/2026/05/trt-genc.png" group-title="Ulusal",TRT GENÇ
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="AZERBAYCAN" tvg-id="XezerTV.tr" tvg-logo="https://cdn.technettv.com/channel/10423/logo_256_1659589825.jpeg" ,Xəzər TV
