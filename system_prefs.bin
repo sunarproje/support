@@ -609,7 +609,7 @@ https://live.euromediacenter.com/surmansethabertv/video.m3u8
 https://streams.uzunmuhalefet.com/stream/5b0139af-aed0-4c08-8805-ad38555fd3a5.m3u8
 #EXTINF:0 CUID="299" tvg-name="Ton TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_136.png" group-title="Yerel",Ton TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:0 CUID="300" tvg-name="TRT Kürdi" tvg-logo="https://assets.uzunmuhalefet.com/logos/94a22cf9-0e2b-4013-b073-255c2ec91fe0.png" group-title="Yerel",TRT Kürdi
+#EXTINF:0 CUID="300" tvg-name="TRT Kürdi" tvg-logo="https://assets.uzunmuhalefet.com/logos/94a22cf9-0e2b-4013-b073-255c2ec91fe0.png" group-title="Yerel",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="301" tvg-name="Türkhaber TV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/e408b08e-5c90-4d58-91cd-0dc5cc550ab7.png" group-title="Yerel",Türkhaber TV
 https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
