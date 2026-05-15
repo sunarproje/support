@@ -28,7 +28,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="14" tvg-name="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
 https://www.canlitv.tech/hls/ahaber.m3u8
 #EXTINF:0 CUID="15" tvg-name="CNN Türk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/cnn-turk-tr.png" group-title="Haber",CNN Türk
-http://sunx101.xyz:80/live/35aliozden/1908ozden/414108.ts
+http://176.65.146.42:6002/play/a010/index.m3u8
 #EXTINF:0 CUID="16" tvg-name="TGRT Haber" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/tgrt-haber-tr.png" group-title="Haber",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:0 CUID="17" tvg-name="Habertürk" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9df1de58-96a3-41ff-9d27-3da5d7873521.png" group-title="Haber",Habertürk
