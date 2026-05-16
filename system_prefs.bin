@@ -77,6 +77,8 @@ https://live.euromediacenter.com/bhatv/tracks-v1a1/mono.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="36" tvg-name="TRT Avaz" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/60e4f0b9-114c-4feb-949e-b9c6f0a04649.png" group-title="Ulusal - Yurt Dışı",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-id="Teleon.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/teleon-live.png" ,teleon
+https://1a-1791.com/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
 #EXTINF:0 CUID="37" tvg-name="ATV Avrupa" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="Ulusal - Yurt Dışı",ATV Avrupa
 http://79.76.41.101/ATVGroup.php?ID=atvavrupa
 #EXTINF:0 CUID="38" tvg-name="Euro D" tvg-logo="https://eurod.kanald.com.tr/assets/img/logo.v5.png" group-title="Ulusal - Yurt Dışı",Euro D
@@ -858,8 +860,6 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 http://79.76.41.101/Heryerde.php?ID=1614
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="SuperTurk.tr" tvg-logo="https://cdn.technettv.com/channel/33972/logo_256.png" ,SuperTurk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-id="Teleon.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/teleon-live.png" ,teleon
-https://1a-1791.com/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="S TV" tvg-logo="https://i.ibb.co/qFLSPJZK/s-tv-sinema.png" ,S TV
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png",T R T 1  / Test
