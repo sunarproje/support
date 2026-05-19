@@ -872,47 +872,47 @@ http://75.119.144.48/NOW_HD_elitvip/index.m3u8
 http://75.119.144.48/STAR_elitvip_ch/index.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png",T V 8 / Test
 http://75.119.144.48/TV8_HD_elitvip/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/-/Hw/246021/logo.png",TRT World
+#EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/-/Hw/246021/logo.png",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/I/xK/246084/logo.png",TRT Arabiya
+#EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/I/xK/246084/logo.png",TRT Arabiya
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/3/rf/246117/logo.png",A News HD
+#EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/3/rf/246117/logo.png",A News HD
 http://79.76.41.101/Go.php?ID=246117
-#EXTINF:-1 group-title="Haber" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/r/Xi/246153/logo.png",NHK English
+#EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/r/Xi/246153/logo.png",NHK English
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b2d761b5-1822-4531-8f00-51bb232f8afa.png",DW English
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b2d761b5-1822-4531-8f00-51bb232f8afa.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7b3fce6-7662-470b-9224-fd930e29a7f7.png",France 24 English
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7b3fce6-7662-470b-9224-fd930e29a7f7.png",France 24 English
 https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.pinimg.com/736x/e9/4e/1c/e94e1c5218c2a0ecb06c2fed98b52c9d.jpg",Al Jazeera English
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://i.pinimg.com/736x/e9/4e/1c/e94e1c5218c2a0ecb06c2fed98b52c9d.jpg",Al Jazeera English
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://pionerprodukt.by/data/images/upl-20210524-9673bb8cb5.jpeg",Bloomberg EU
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://pionerprodukt.by/data/images/upl-20210524-9673bb8cb5.jpeg",Bloomberg EU
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://pionerprodukt.by/data/images/upl-20210524-9673bb8cb5.jpeg",Bloomberg US
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://pionerprodukt.by/data/images/upl-20210524-9673bb8cb5.jpeg",Bloomberg US
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://assets.bbhub.io/media/sites/2/2023/04/Bloomberg-Originals-Logo.png",Bloomberg Originals
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://assets.bbhub.io/media/sites/2/2023/04/Bloomberg-Originals-Logo.png",Bloomberg Originals
 https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/j/NG/245973/logo.png",CNN International
+#EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/j/NG/245973/logo.png",CNN International
 http://79.76.41.101/Go.php?ID=245973
-#EXTINF:-1 group-title="Haber" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/q/Tp/245970/logo.png",BBC World News
+#EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/q/Tp/245970/logo.png",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",Euronews EN
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",Euronews EN
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",Sky News
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS News
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC News Live
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC News Live
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN NEWS
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png",CGTN NEWS
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",Fox News
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC News
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC News
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/4gCmb0Gt/msnbc.jpg",MSNBC
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://i.ibb.co/4gCmb0Gt/msnbc.jpg",MSNBC
 http://41.205.93.154/MSNBC/index.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/rtqXSWm/arirang.png" user-agent="Star Wars",ARIRANG WORLD
+#EXTINF:-1 group-title="Dünya" tvg-logo="https://i.ibb.co/rtqXSWm/arirang.png" user-agent="Star Wars",ARIRANG WORLD
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" group-title="Belgesel",Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
@@ -930,6 +930,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Müzik",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/250px-TRACE_Latina_Logo.png" group-title="Müzik",Trace Latin
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Müzik",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Müzik",4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ccdwsWj.png" group-title="Müzik",Company TV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist_w2056647378_b1428000_slita.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75qUdR7.png" group-title="Müzik",RTL 102.5 Tv
+https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b3256000.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/399jRGDw/blknmsc.png",BALKAN MUSIC TV
 http://giganet.mk/hls/balkanmusictv.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/dZHktKR.png",Vevo Pop
