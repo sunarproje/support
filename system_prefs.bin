@@ -415,8 +415,10 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 http://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="208" tvg-name="BULTÜRK TV" tvg-logo="https://i0.wp.com/bulturk.net/wp-content/uploads/2024/01/uzun-logo-kirmizi.jpg" group-title="Yerel",BULTÜRK TV
 https://live.euromediacenter.com/bulturktv/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="208" tvg-name="CEM TV" tvg-logo="https://i.imgur.com/x5YNUfz.png" group-title="Yerel",CEM TV
+https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
 #EXTINF:0 CUID="209" tvg-name="Çankırı TV" tvg-logo="https://cankiritv.com.tr/image/c1tv.png" group-title="Yerel",Çankırı TV
-https://yayin1.canlitv.fun/canlitv/cankiritv.stream/chunklist_w657935461.m3u8
+https://streams.uzunmuhalefet.com/stream/54f24415-b73e-404d-82e4-76395c5cae76.m3u8
 #EXTINF:0 CUID="210" tvg-name="Çay TV" tvg-logo="https://www.caytvhaber.com/d/assets/logo.png" group-title="Yerel",Çay TV
 https://edge.socialsmart.tv/caytv/bant1/chunks.m3u8
 #EXTINF:0 CUID="211" tvg-name="Deniz Postası TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_31.png" group-title="Yerel",Deniz Postası TV
@@ -830,6 +832,24 @@ https://anadolu.liderhost.com.tr:10865/;
 https://radyo.yayindakiler.com:2044/; 
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://www.radyogun.com.tr/uploads/yayincilar/thumb/ana/zyro-image-removebg-preview.jpg" ,Radyo Gün
 https://ssl22.radyotelekom.com/8174/stream
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://mediacdns.karnaval.com/media/station_media/4/logos/android_default_logo.png" ,JoyTürk
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://mediacdns.karnaval.com/media/station_media/9/logos/android_default_logo.png" ,JoyTürk Akustik
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://mediacdns.karnaval.com/media/station_media/22/logos/android_default_logo.png" ,JoyTürk Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK128AAC.aac
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://radioeksen.com/media/lajbpjqe/eksen-footer-logo.png" ,Radyo Eksen
+https://ssldyg.radyotvonline.com/pozitif/smil:eksen.smil/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://i0.wp.com/bluesradio.gr/wp-content/uploads/2017/12/letsgoblues-radio-trans.png" ,Blues Radio
+https://strm112.1.fm/blues_mobile_mp3
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://rockfm.com.tr/wp-content/uploads/2021/10/rockfm_logo_2022_1a-e1634403995211.png" ,Rock FM
+https://rockfm.rockfm.com.tr:9450/stream 
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://kalpfm.com/wp-content/uploads/2024/12/kalpfm_v2-b.png" ,Kalp FM
+https://yayin.kalpfm.com:8080/stream 
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/doksanlar-fm-dinle.jpg" ,Radyo Doksanlar
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://askfm.com.tr/img/logo.png" ,Aşk FM
+https://stream.netradyom.com/radio/8000/radio.mp3
 #EXTINF:0 CUID="59" tvg-name="Dizi-Film TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png" group-title="7/24 Youtube",Dizi-Film TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="SDMSinema.tr" tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" ,S D M Sinema Keyfi
