@@ -76,9 +76,9 @@ https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="Teleon.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/teleon-live.png" ,teleon
 https://1a-1791.com/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
 #EXTINF:0 CUID="37" tvg-name="ATV Avrupa" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="Ulusal - Yurt Dışı",ATV Avrupa
-https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8
+http://176.65.146.42:6004/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Ulusal",Euro Star
-http://tv.smartglwiz.workers.dev/?ID=EuroStar_HD
+http://176.65.146.42:6004/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" group-title="Ulusal",TV8 int
 http://208.79.153.167/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:0 CUID="39" tvg-name="TGRT EU" tvg-logo="https://uydufrekanslari.tr/wp-content/uploads/2025/12/tgrt-eu-tr-300x208.png" group-title="Ulusal - Yurt Dışı",TGRT EU
@@ -90,7 +90,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:0 CUID="42" tvg-name="Kanal Avrupa" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kanal_avrupa_NgH.png" group-title="Ulusal - Yurt Dışı",Kanal Avrupa
 https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 #EXTINF:0 CUID="43" tvg-name="A Para" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="Ekonomi",A Para
-https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
+http://176.65.146.42:6001/play/a029
 #EXTINF:0 CUID="44" tvg-name="Bloomberg HT" tvg-logo="https://cdn.technettv.com/channel/20322/logo_256_1699957451.png" group-title="Ekonomi",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:0 CUID="45" tvg-name="Ekotürk" tvg-logo="https://www.ekoturk.com/wp-content/themes/eko-news/images/ekoturk-logo-v2.png" group-title="Ekonomi",Ekotürk
