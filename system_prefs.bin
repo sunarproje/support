@@ -151,36 +151,36 @@ https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:0 CUID="80" tvg-name="TRT Müzik" tvg-logo="https://cdn.technettv.com/channel/20630/logo_256_1699961878.png" group-title="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:0 CUID="82" tvg-name="Powertürk TV" tvg-logo="https://www.phonostar.de/images/auto_created/Power_Tuerk2184x184.png" group-title="Müzik",Powertürk TV
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:0 CUID="83" tvg-name="Power TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/power-tv-tr.png" group-title="Müzik",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:0 CUID="86" tvg-name="Kral Pop TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/kral-pop-tr.png" group-title="Müzik",Kral Pop TV
 https://streams.uzunmuhalefet.com/stream/1604703d-b882-4ea0-9c4d-bc4ea1f0d463.m3u8
-#EXTINF:0 CUID="87" tvg-name="TMB TV" tvg-logo="https://tmb.tv/wp-content/uploads/2022/12/cropped-transparent-bg-shadow-designify.png" group-title="Müzik",TMB TV
-https://str.yodacdn.net/tmb_tr_app/playlist.m3u8?token=tmb_app_token_13579
+#EXTINF:0 CUID="82" tvg-name="Powertürk TV" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Müzik",Powertürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:0 CUID="88" tvg-name="Powertürk Taptaze" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_43.png?v4" group-title="Müzik",Powertürk Taptaze
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:0 CUID="89" tvg-name="Powertürk Slow" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2450.png?v4" group-title="Müzik",Powertürk Slow
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:0 CUID="90" tvg-name="Powertürk Akustik" tvg-logo="https://www.radio.de/300/powerturkakustik.png?versionde248764e27414b5dd02a0ae8bfd4622" group-title="Müzik",Powertürk Akustik
+#EXTINF:0 CUID="90" tvg-name="Powertürk Akustik" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Müzik",Powertürk Akustik
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:0 CUID="83" tvg-name="Power TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/power-tv-tr.png" group-title="Müzik",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:0 CUID="91" tvg-name="Power Love" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2559.png" group-title="Müzik",Power Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:0 CUID="84" tvg-name="Number 1 Türk" tvg-logo="https://i.imgur.com/18zjk3q.png" group-title="Müzik",Number 1 Türk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:0 CUID="85" tvg-name="Number 1 TV" tvg-logo="https://i.imgur.com/02cDIBi.png" group-title="Müzik",Number 1 TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:0 CUID="92" tvg-name="Power Dance" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_40.png?v=4" group-title="Müzik",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:0 CUID="84" tvg-name="Number 1 Türk" tvg-logo="https://i.imgur.com/18zjk3q.png" group-title="Müzik",Number 1 Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 #EXTINF:0 CUID="93" tvg-name="Number 1 Aşk" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="Müzik",Number 1 Aşk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:0 CUID="85" tvg-name="Number 1 TV" tvg-logo="https://i.imgur.com/02cDIBi.png" group-title="Müzik",Number 1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:0 CUID="94" tvg-name="Number 1 Rap" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png" group-title="Müzik",Number 1 Rap
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:0 CUID="95" tvg-name="Number 1 Dance" tvg-logo="https://i.imgur.com/ZM4PSyq.png" group-title="Müzik",Number 1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:0 CUID="96" tvg-name="4 Türk Pop" tvg-logo="https://pic.rtbcdn.ru/video/93/2f/932f0ae97477a98a8ecdf02b46893a44.png" group-title="Müzik",4 Türk Pop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
+#EXTINF:0 CUID="87" tvg-name="TMB TV" tvg-logo="https://tmb.tv/wp-content/uploads/2022/12/cropped-transparent-bg-shadow-designify.png" group-title="Müzik",TMB TV
+https://str.yodacdn.net/tmb_tr_app/playlist.m3u8?token=tmb_app_token_13579
 #EXTINF:0 CUID="97" tvg-name="Müzik TV" tvg-logo="https://ia.tmgrup.com.tr/7651ae/64/64/0/0/542/542?u=https://i.tmgrup.com.tr/724izle/2023/06/14/1686755685767.png" group-title="Müzik",Müzik TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/2.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://ia.tmgrup.com.tr/3ece16/64/64/7/0/550/542?u=https://i.tmgrup.com.tr/724izle/2023/06/14/1686755882468.png" tvg-url="https://www.turkuvapp.com/" tvg-id="ChillTV.tr",Chill TV
