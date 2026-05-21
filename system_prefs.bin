@@ -52,7 +52,7 @@ https://cdn.tecostream.xyz/Akit_Tv.m3u8
 #EXTINF:0 CUID="28" tvg-name="Ulusal Kanal" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="Haber",Ulusal Kanal
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:0 CUID="29" tvg-name="TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/TV5.jpg" group-title="Haber",TV 5
-http://tv.smartglwiz.workers.dev/?ID=TV5_HD
+http://176.65.146.42:6003/play/a01y/index.m3u8
 #EXTINF:0 CUID="30" tvg-name="Flash Haber TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Flash_haber_tv_2025.png" group-title="Haber",Flash Haber TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:0 CUID="31" tvg-name="Lider Haber TV" tvg-logo="https://liderhabercomtr.teimg.com/liderhaber-com-tr/uploads/2025/10/lider-4-2.png" group-title="Haber",Lider Haber TV
