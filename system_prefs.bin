@@ -844,10 +844,16 @@ https://strm112.1.fm/blues_mobile_mp3
 https://rockfm.rockfm.com.tr:9450/stream 
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://kalpfm.com/wp-content/uploads/2024/12/kalpfm_v2-b.png" ,Kalp FM
 https://yayin.kalpfm.com:8080/stream 
-#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/doksanlar-fm-dinle.jpg" ,Radyo Doksanlar
-https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://askfm.com.tr/img/logo.png" ,Aşk FM
 https://stream.netradyom.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/doksanlar-fm-dinle.jpg" ,Radyo Doksanlar
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://mediacdns.karnaval.com/media/station_media/41/logos/android_default_logo.png" ,POP90
+https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/show-90lar.jpg" ,Show 90’lar
+https://listen.radyotvonline.net/hls/play/show_90lar.m3u8
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/02/N1_90lar1.png" ,Number 1 Türk 90lar
+https://eustr75.mediatriple.net/hls/turkce_90lar/aac_hifi.m3u8
 #EXTINF:0 CUID="59" tvg-name="Dizi-Film TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png" group-title="7/24 Youtube",Dizi-Film TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="SDMSinema.tr" tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-sinema-keyfi.png" ,S D M Sinema Keyfi
@@ -855,21 +861,21 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/9a5263de-ad43-49c9-8ad4-dc38e252873c.png" group-title="Haber",BENGÜTÜRK
 https://cdn.tecostream.xyz/Benguturk_Tv.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="SuperTurk.tr" tvg-logo="https://cdn.technettv.com/channel/33972/logo_256.png" ,SuperTurk
-http://75.119.144.48/SuperTURK_elitvipstream_CH/index.m3u8
+http://75.119.144.48/superturk_dizihd/index.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="S TV" tvg-logo="https://i.ibb.co/qFLSPJZK/s-tv-sinema.png" ,S TV
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png",T R T 1  / Test
-http://75.119.144.48/TRT1_chhd/index.m3u8
+https://live.tecostream.xyz/channels/trt_1.php
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png",S H O W T V / Test
-http://75.119.144.48/SHOWtv_chhd_1/index.m3u8
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png",A T V / Test
-http://trn03.tulix.tv/gt-atv-live/tracks-v1a1/mono.m3u8
+https://turkuaz.tecostream.xyz/atv
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png",N O W / Test
-http://75.119.144.48/Nowtv_ch_hd1/index.m3u8
+https://dogus.tecostream.xyz/now.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png",S T A R / Test
-http://75.119.144.48/STARtv_chhd_1/index.m3u8
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7u83ih9ig2m3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png",T V 8 / Test
-http://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/960px-TRT_4K.png",TRT 4K / Test
 https://vavoo-iptv.umitm0d.workers.dev/play/umitmod4418b6a8
 #EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/-/Hw/246021/logo.png",TRT World
