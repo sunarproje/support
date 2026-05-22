@@ -131,9 +131,9 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8?app=clean
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:0 CUID="68" tvg-name="HT Spor" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f5c5d725-eb83-4749-a0aa-a418196ef10f.png" group-title="Spor",HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/S_Sport_Plus_Logo.png"group-title=Spor",S SPORT a 
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/S_Sport_Plus_Logo.png" group-title=Spor",S SPORT a 
 https://vavoo-iptv.umitm0d.workers.dev/play/umitmod57743b71
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/S_Sport_Plus_Logo.png"group-title=Spor",S SPORT b
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/S_Sport_Plus_Logo.png" group-title=Spor",S SPORT b
 https://vavoo-iptv.umitm0d.workers.dev/play/umitmod8ce99242
 #EXTINF:0 CUID="69" tvg-name="Ekol Sports" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250815850937.png" group-title="Spor",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
