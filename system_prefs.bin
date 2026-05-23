@@ -830,6 +830,8 @@ https://anadolu.liderhost.com.tr:10865/;
 https://radyo.yayindakiler.com:2044/; 
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://www.radyogun.com.tr/uploads/yayincilar/thumb/ana/zyro-image-removebg-preview.jpg" ,Radyo Gün
 https://ssl22.radyotelekom.com/8174/stream
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-mavi-aksaray.jpg" ,Radyo Mavi
+https://radyo.yayindakiler.com:4026/;
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://mediacdns.karnaval.com/media/station_media/4/logos/android_default_logo.png" ,JoyTürk
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3
 #EXTINF:-1 group-title="Radyo" tvg-logo="https://mediacdns.karnaval.com/media/station_media/9/logos/android_default_logo.png" ,JoyTürk Akustik
