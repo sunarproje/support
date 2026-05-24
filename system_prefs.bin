@@ -142,7 +142,7 @@ http://tv.smartglwiz.workers.dev/?ID=SportsTV_HD
 #EXTINF:0 CUID="72" tvg-name="FB TV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/42f616f7-bcad-4967-8409-9577b9c14319.png" group-title="Spor",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:0 CUID="73" tvg-name="Sıfır TV" tvg-logo="https://sifirtv.com/sifir-tv-logo.png" group-title="Spor",Sıfır T
-http://161.118.166.5/Go.php?ID=1029238
+http://176.65.146.42:6003/play/a013/index.m3u8
 #EXTINF:0 CUID="74" tvg-name="TJK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/29/TJKTV_Logo.jpg" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:0 CUID="75" tvg-name="TJK TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/29/TJKTV_Logo.jpg" group-title="Spor",TJK TV 2
