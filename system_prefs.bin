@@ -629,6 +629,8 @@ https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:0 CUID="312" tvg-name="Van Gölü TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/631c5e6c-6177-4076-822c-7cee63d36a97.png" group-title="Yerel",Van Gölü TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
+#EXTINF:-1 tvg-name="ERCİŞ TV VAN" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="Yerel",ERCİŞ TV VAN
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/playlist.m3u8
 #EXTINF:0 CUID="313" tvg-name="Viyana TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/f96ef417-bec2-401c-b7fe-bdc39eaab8b0.png" group-title="Yerel",Viyana TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:0 CUID="314" tvg-name="World Türk" tvg-logo="https://assets.uzunmuhalefet.com/logos/0f89fa71-8a00-4119-8495-1aec4ff008c1.png" group-title="Yerel",World Türk
@@ -867,17 +869,17 @@ http://75.119.144.48/superturk_dizihd/index.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="S TV" tvg-logo="https://i.ibb.co/qFLSPJZK/s-tv-sinema.png" ,S TV
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png",T R T 1  / Test
-http://germanydns15.com:8000/live/bedil1/sn4aogieh/df50ee79-aff9-4983-941b-fc985ac34143.ts
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png",S H O W T V / Test
-http://germanydns15.com:8000/live/bedil1/sn4aogieh/e1d8fd8a-b203-430f-962c-990224725725.ts
+https://www.canlitv.tech/hls/showtv.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png",A T V / Test
-http://germanydns15.com:8000/live/bedil1/sn4aogieh/eb8806ac-ebbf-43c3-a874-afd02b6a814e.ts
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png",N O W / Test
-http://germanydns15.com:8000/live/bedil1/sn4aogieh/ca62c03b-0064-4fa8-85ee-ba3a7a23d293.ts
+https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png",S T A R / Test
-http://germanydns15.com:8000/live/bedil1/sn4aogieh/f48624e2-6cd3-46c1-8d49-0a3acdc0b6f7.ts
+https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png",T V 8 / Test
-http://germanydns15.com:8000/live/bedil1/sn4aogieh/dc047476-1003-4dc5-82be-530b868af48a.ts
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/960px-TRT_4K.png",TRT 4K / Test
 http://tvgold.top:8080/demo/demo123/244
 #EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/-/Hw/246021/logo.png",TRT World
@@ -885,7 +887,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/I/xK/246084/logo.png",TRT Arabiya
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/3/rf/246117/logo.png",A News HD
-http://germanydns15.com:8000/live/bedil1/sn4aogieh/82ef44f7-da06-46b6-9d87-0c89f4c24477.ts
+http://176.65.146.42:6001/play/a028
 #EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/r/Xi/246153/logo.png",NHK English
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="Dünya" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b2d761b5-1822-4531-8f00-51bb232f8afa.png",DW English
