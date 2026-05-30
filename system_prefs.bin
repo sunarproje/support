@@ -631,6 +631,10 @@ https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 #EXTINF:-1 tvg-name="ERCİŞ TV VAN" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="Yerel",ERCİŞ TV VAN
 https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/playlist.m3u8
+#EXTINF:0 CUID="415" tvg-name="Kanal 30" tvg-logo="https://r.resimlink.com/XizxDc.jpg" group-title="Yerel",Kanal 30
+https://azerbaycan.biz-az.workers.dev/kanal30.m3u8
+#EXTINF:0 CUID="415" tvg-name="Zelal" tvg-logo="https://r.resimlink.com/pwOIH1d.png" group-title="Yerel",Denge Zelal TV
+https://dengetv.ozelip.com:3143/live/dengelive.m3u8
 #EXTINF:0 CUID="313" tvg-name="Viyana TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/f96ef417-bec2-401c-b7fe-bdc39eaab8b0.png" group-title="Yerel",Viyana TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:0 CUID="314" tvg-name="World Türk" tvg-logo="https://assets.uzunmuhalefet.com/logos/0f89fa71-8a00-4119-8495-1aec4ff008c1.png" group-title="Yerel",World Türk
@@ -864,8 +868,10 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/9a5263de-ad43-49c9-8ad4-dc38e252873c.png" group-title="Haber",BENGÜTÜRK
 http://ensonhaber-live.ercdn.net/benguturk/benguturk_720p.m3u8
-#EXTINF:-1 group-title="7/24 Youtube" tvg-id="SuperTurk.tr" tvg-logo="https://cdn.technettv.com/channel/33972/logo_256.png" ,SuperTurk
-http://75.119.144.48/superturk_dizihd/index.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-id="Native" tvg-logo="https://r.resimlink.com/0F7_BnZpI.png" ,Native Tv
+https://azerbaycan.biz-az.workers.dev/nativetv.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-id="Native" tvg-logo="https://r.resimlink.com/s5LgGKO.png" ,Denge Movie Tv
+https://azerbaycan.biz-az.workers.dev/movietv.m3u8
 #EXTINF:-1 group-title="7/24 Youtube" tvg-id="S TV" tvg-logo="https://i.ibb.co/qFLSPJZK/s-tv-sinema.png" ,S TV
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png",T R T 1  / Test
