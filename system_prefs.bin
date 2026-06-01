@@ -52,7 +52,7 @@ http://maxgoldx.xyz:2095/ademr0000/dmm0301cc00bb55/107619
 #EXTINF:0 CUID="28" tvg-name="Ulusal Kanal" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="Haber",Ulusal Kanal
 https://streams.uzunmuhalefet.com/stream/e8b425ad-571d-475d-a657-37bca8985836.m3u8
 #EXTINF:0 CUID="29" tvg-name="TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/TV5.jpg" group-title="Haber",TV 5
-http://176.65.146.42:6003/play/a01y/index.m3u8
+https://izle.dattavav.workers.dev/?id=935671761.m3u8
 #EXTINF:0 CUID="30" tvg-name="Flash Haber TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Flash_haber_tv_2025.png" group-title="Haber",Flash Haber TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:0 CUID="31" tvg-name="Lider Haber TV" tvg-logo="https://liderhabercomtr.teimg.com/liderhaber-com-tr/uploads/2025/10/lider-4-2.png" group-title="Haber",Lider Haber TV
@@ -64,7 +64,7 @@ https://edge1.taksimbilisim.com/neohaber/bant1/chunks.m3u8
 #EXTINF:0 CUID="32" tvg-name="TeleNews" tvg-logo="https://telenews.com.tr/wp-content/uploads/2025/08/telenews-logo.png" group-title="Haber",TeleNews Tv Haber
 https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
 #EXTINF:0 CUID="32" tvg-name="KRT TV" tvg-logo="https://s.krttv.com.tr/assets/web/images/logo.png" group-title="Haber",KRT TV
-https://trn03.tulix.tv/gt-krt--tv/index.m3u8
+https://trn03.tulix.tv/gt-krt--tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="33" tvg-name="TBMM TV" tvg-logo="https://images.seeklogo.com/logo-png/61/3/tbmm-tv-logo-png_seeklogo-612581.png" group-title="Haber",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 CUID="34" tvg-name="BHA TV" tvg-logo="https://www.kulis.tv/images/haberler/2024/11/timbir-ve-bha-ya-yonelik-yorum-asilsiz-cikti-tekzip-geldi-5669.jpg" group-title="Haber",BHA TV
@@ -119,8 +119,12 @@ https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:0 CUID="60" tvg-name="Fashion One TV" tvg-logo="https://i.imgur.com/cyvNhJq.png" group-title="Eğlence",Fashion One TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Şaban Tv" tvg-name="Şaban Tv" group-title="7/24 Youtube" tvg-logo="https://i.ibb.co/PZXWyPJX/aban-tv.jpg",Şaban Tv
+https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
 #EXTINF:0 CUID="62" tvg-name="Cine 1" tvg-logo="https://cine1.com.tr/img/cine1loogo.png" group-title="7/24 Youtube",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1 tvg-id="Mr.Bean" tvg-name="Mr.Bean" group-title="7/24 Youtube" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhp3DufSRPrRsKSICC514wHpyboJJkV9CgHw&s",Mr.Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:0 CUID="64" tvg-name="beIN SPORTS HABER" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="SPOR",beIN SPORTS HABER
 http://176.65.146.42:6003/play/a011/index.m3u8
 #EXTINF:0 CUID="63" tvg-name="TRT Spor" tvg-logo="https://cdn.technettv.com/channel/20770/logo_256_1699963394.png" group-title="Spor",TRT Spor
