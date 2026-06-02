@@ -121,8 +121,28 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Şaban Tv" tvg-name="Şaban Tv" group-title="7/24 Youtube" tvg-logo="https://i.ibb.co/PZXWyPJX/aban-tv.jpg",Şaban Tv
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
+#EXTINF:-1 tvg-id="48695" group-title="7/24 Youtube" tvg-logo="https://catcast.tv/assets/no-logo.svg",Kemal Sunal
+http://cdn.catcast.workers.dev/48695.m3u8
 #EXTINF:0 CUID="62" tvg-name="Cine 1" tvg-logo="https://cine1.com.tr/img/cine1loogo.png" group-title="7/24 Youtube",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1 tvg-id="50806" tvg-logo="https://catcast.tv/assets/no-logo.svg",Fanatik Kids Pepee
+http://cdn.catcast.workers.dev/50806.m3u8
+#EXTINF:-1 tvg-id="50837"group-title="Çocuk" tvg-logo="https://catcast.tv/assets/no-logo.svg",Tom & Jerry
+http://cdn.catcast.workers.dev/50837.m3u8
+#EXTINF:-1 tvg-id="50758" group-title="Çocuk" tvg-logo="https://catcast.tv/assets/no-logo.svg",Kids Şarkılar
+http://cdn.catcast.workers.dev/50758.m3u8
+#EXTINF:-1 tvg-id="50761" group-title="7/24 Youtube" tvg-logo="https://catcast.tv/assets/no-logo.svg",Dağ
+http://cdn.catcast.workers.dev/50761.m3u8
+#EXTINF:-1 tvg-id="50742" group-title="7/24 Youtube" tvg-logo="https://catcast.tv/assets/no-logo.svg",Deadpool
+http://cdn.catcast.workers.dev/50742.m3u8
+#EXTINF:-1 tvg-id="50717" group-title="7/24 Youtube" tvg-logo="https://catcast.tv/assets/no-logo.svg",Korku
+http://cdn.catcast.workers.dev/50717.m3u8
+#EXTINF:-1 tvg-id="50735" group-title="7/24 Youtube" tvg-logo="https://catcast.tv/assets/no-logo.svg",Yeşilçam
+http://cdn.catcast.workers.dev/50735.m3u8
+#EXTINF:-1 tvg-id="50827" group-title="7/24 Youtube" tvg-logo="https://catcast.tv/assets/no-logo.svg",Eşref Tek
+http://cdn.catcast.workers.dev/50827.m3u8
+#EXTINF:-1 tvg-id="50688" group-title="7/24 Youtube" tvg-logo="https://catcast.tv/assets/no-logo.svg",Kurtlar Vadisi
+http://cdn.catcast.workers.dev/50688.m3u8
 #EXTINF:-1 tvg-id="Mr.Bean" tvg-name="Mr.Bean" group-title="7/24 Youtube" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhp3DufSRPrRsKSICC514wHpyboJJkV9CgHw&s",Mr.Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:0 CUID="64" tvg-name="beIN SPORTS HABER" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="SPOR",beIN SPORTS HABER
