@@ -24,7 +24,7 @@ https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8
 #EXTINF:0 CUID="13" tvg-name="TRT Haber" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="14" tvg-name="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
-https://www.canlitv.tech/hls/ahaber.m3u8
+https://turkuaz.tecostream.xyz/ahaber
 #EXTINF:0 CUID="16" tvg-name="TGRT Haber" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/tgrt-haber-tr.png" group-title="Haber",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:0 CUID="17" tvg-name="Habertürk" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9df1de58-96a3-41ff-9d27-3da5d7873521.png" group-title="Haber",Habertürk
@@ -64,7 +64,7 @@ https://edge1.taksimbilisim.com/neohaber/bant1/chunks.m3u8
 #EXTINF:0 CUID="32" tvg-name="TeleNews" tvg-logo="https://telenews.com.tr/wp-content/uploads/2025/08/telenews-logo.png" group-title="Haber",TeleNews Tv Haber
 https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
 #EXTINF:0 CUID="32" tvg-name="KRT TV" tvg-logo="https://s.krttv.com.tr/assets/web/images/logo.png" group-title="Haber",KRT TV
-https://trn03.tulix.tv/gt-krt--tv/tracks-v1a1/mono.m3u8
+https://yt3.sayezec.workers.dev/@krtcanli
 #EXTINF:0 CUID="33" tvg-name="TBMM TV" tvg-logo="https://images.seeklogo.com/logo-png/61/3/tbmm-tv-logo-png_seeklogo-612581.png" group-title="Haber",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 CUID="34" tvg-name="BHA TV" tvg-logo="https://www.kulis.tv/images/haberler/2024/11/timbir-ve-bha-ya-yonelik-yorum-asilsiz-cikti-tekzip-geldi-5669.jpg" group-title="Haber",BHA TV
@@ -78,13 +78,13 @@ https://1a-1791.com/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
 #EXTINF:0 CUID="37" tvg-name="ATV Avrupa" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="Ulusal - Yurt Dışı",ATV Avrupa
 http://176.65.146.42:6004/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Ulusal",Euro Star
-http://176.65.146.42:6004/play/a01o/index.m3u8
+https://stream-extractor.koprulu2.workers.dev/?url=https://www.parsatv.com/m/name=Euro-Star&ext=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" group-title="Ulusal",TV8 int
 http://208.79.153.167/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:0 CUID="39" tvg-name="TGRT EU" tvg-logo="https://uydufrekanslari.tr/wp-content/uploads/2025/12/tgrt-eu-tr-300x208.png" group-title="Ulusal - Yurt Dışı",TGRT EU
 http://208.79.153.167/inim03/live1/tgrteu/playlist.m3u8
 #EXTINF:0 CUID="40" tvg-name="Show Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/250px-Show_Turk_logo.png" group-title="Ulusal - Yurt Dışı",Show Türk
-https://yakala.atakann.workers.dev/?url=https://www.showtv.com.tr/canli-yayin&ext=m3u8
+https://streams.uzunmuhalefet.com/stream/16e43b9b-e175-482c-a105-2253c06515c9.m3u8
 #EXTINF:0 CUID="41" tvg-name="Kanal 7 Avrupa" tvg-logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7avrupa/images/kanal7avrupa_logo.png" group-title="Ulusal - Yurt Dışı",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:0 CUID="42" tvg-name="Kanal Avrupa" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kanal_avrupa_NgH.png" group-title="Ulusal - Yurt Dışı",Kanal Avrupa
@@ -94,7 +94,7 @@ http://176.65.146.42:6001/play/a029
 #EXTINF:0 CUID="44" tvg-name="Bloomberg HT" tvg-logo="https://cdn.technettv.com/channel/20322/logo_256_1699957451.png" group-title="Ekonomi",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:0 CUID="45" tvg-name="Ekotürk" tvg-logo="https://www.ekoturk.com/wp-content/themes/eko-news/images/ekoturk-logo-v2.png" group-title="Ekonomi",Ekotürk
-https://cdn.tecostream.xyz/Eko_Turk.m3u8
+https://yt3.sayezec.workers.dev/@EKOTURKTV
 #EXTINF:0 CUID="46" tvg-name="Finans Türk" tvg-logo="https://finansturktv.com/images/logo.png" group-title="Ekonomi",Finans Türk
 https://yayin3.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:0 CUID="48" tvg-name="CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo.png" group-title="Ekonomi",CNBC-e
