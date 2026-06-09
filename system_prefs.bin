@@ -431,7 +431,9 @@ https://bizimbergamatv.streams-supersatforum.workers.dev/bizimbergamatv.m3u8
 https://edge2.taksimbilisim.com/bodrumkenttv/bant1/chunks.m3u8
 #EXTINF:0 CUID="206" tvg-name="BRTV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_19.png" group-title="Yerel",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
-#EXTINF:0 CUID="207" tvg-name="Brüksel Türk" tvg-logo="https://www.brukselturk.com/wp-content/uploads/2024/09/brukselturk.png" group-title="Haber",Brüksel Türk
+#EXTINF:0 CUID="207" tvg-name="Kanal 5" tvg-logo="http://kanal5.com.tr/wp-content/uploads/2020/02/kanal-logoSD.png" group-title="Yerel",Kanal 5
+https://yt3.sayezec.workers.dev/@kanal5tr
+#EXTINF:0 CUID="207" tvg-name="Brüksel Türk" tvg-logo="https://www.brukselturk.com/wp-content/uploads/2024/09/brukselturk.png" group-title="Yerel",Brüksel Türk
 http://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="208" tvg-name="BULTÜRK TV" tvg-logo="https://i0.wp.com/bulturk.net/wp-content/uploads/2024/01/uzun-logo-kirmizi.jpg" group-title="Yerel",BULTÜRK TV
 https://live.euromediacenter.com/bulturktv/tracks-v1a1/mono.m3u8
