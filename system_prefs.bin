@@ -74,7 +74,7 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="36" tvg-name="TRT Avaz" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/60e4f0b9-114c-4feb-949e-b9c6f0a04649.png" group-title="Ulusal - Yurt Dışı",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-id="Teleon.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2023/11/teleon-live.png" ,teleon
-https://1a-1791.com/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
+https://vsd181.okcdn.ru/hls/15913092713173.m3u8/sig/r9hH5nukHgA/expires/1781124291507/srcIp/37.154.168.50/urls/185.226.55.90/clientType/36/srcAg/UNKNOWN/mid/14610407573461/video.m3u8
 #EXTINF:0 CUID="37" tvg-name="ATV Avrupa" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="Ulusal - Yurt Dışı",ATV Avrupa
 http://176.65.146.42:6004/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png" group-title="Ulusal",Euro Star
