@@ -160,12 +160,12 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8?autoplay=1
 #EXTINF:0 CUID="70" tvg-name="Tivibu Spor" tvg-logo="https://i1.sndcdn.com/avatars-000335394613-kvru7x-t1080x1080.jpg" group-title="Spor",Tivibu Spor
 https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
 #EXTINF:0 CUID="70" tvg-name="Tivibu Spor" tvg-logo="https://i1.sndcdn.com/avatars-000335394613-kvru7x-t1080x1080.jpg" group-title="Spor",Tivibu Spor Yedek
-http://schwarzer-1903.com:8080/sezerozturkTR/88637jj37hh/114868
+http://patlak303.xyz:8080/5070122848/07.09.2022/234197
 #EXTINF:0 CUID="71" tvg-name="Sports TV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ce3a853a-b638-44b8-b4f4-9728aec137d3.png" group-title="Spor",Sports TV
 http://tv.smartglwiz.workers.dev/?ID=SportsTV_HD
 #EXTINF:0 CUID="72" tvg-name="FB TV" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/42f616f7-bcad-4967-8409-9577b9c14319.png" group-title="Spor",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:0 CUID="73" tvg-name="Sıfır TV" tvg-logo="https://sifirtv.com/sifir-tv-logo.png" group-title="Spor",Sıfır T
+#EXTINF:0 CUID="73" tvg-name="Sıfır TV" tvg-logo="https://sifirtv.com/sifir-tv-logo.png" group-title="Spor",Sıfır Tv
 http://176.65.146.42:6003/play/a013/index.m3u8
 #EXTINF:0 CUID="74" tvg-name="TJK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/29/TJKTV_Logo.jpg" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
@@ -900,18 +900,24 @@ http://162.212.179.32/akamaissh101/ssh101/movietv/chunks.m3u8
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png",T R T 1  / Test
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:-1 tvg-logo="http://logo1010.com/news/trt1-hd.png" group-title="Ulusal",TRT 1
+http://patlak303.xyz:8080/5070122848/07.09.2022/312773
+#EXTINF:-1 tvg-logo="http://logo1010.com/news/trt1-hd.png" group-title="Ulusal",Trt 1 HD
+http://patlak303.xyz:8080/5070122848/07.09.2022/317755
+#EXTINF:-1 tvg-logo="http://logo1010.com/news/trt1-fhd.png" group-title="Ulusal",Trt 1 FHD
+http://patlak303.xyz:8080/5070122848/07.09.2022/700
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png",S H O W T V / Test
-https://www.canlitv.tech/hls/showtv.m3u8
+http://patlak303.xyz:8080/5070122848/07.09.2022/719
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png",A T V / Test
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+http://patlak303.xyz:8080/5070122848/07.09.2022/703
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png",N O W / Test
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+http://patlak303.xyz:8080/5070122848/07.09.2022/709
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png",S T A R / Test
-https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+http://patlak303.xyz:8080/5070122848/07.09.2022/724
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png",T V 8 / Test
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TRT_4K.svg/960px-TRT_4K.png",TRT 4K / Test
-http://tvgold.top:8080/demo/demo123/244
+http://patlak303.xyz:8080/5070122848/07.09.2022/790
+#EXTINF:-1 group-title="Ulusal" tvg-logo="http://logo1010.com/news/trt1-hd.png" group-title="Ulusal",TRT 4K
+http://patlak303.xyz:8080/5070122848/07.09.2022/333042
 #EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/-/Hw/246021/logo.png",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/I/xK/246084/logo.png",TRT Arabiya
