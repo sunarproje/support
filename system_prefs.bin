@@ -904,6 +904,26 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 http://patlak303.xyz:8080/5070122848/07.09.2022/700
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",Trt 1 Yedek 2
 http://46.32.176.50/trt1/index.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/100.png" group-title="Ulusal",TR: TRT 1 4K 
+http://ocsunpic.duckdns.org:8080/GOKHANBABAS/ZeE90EY0A8/544072
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/100.png" group-title="Ulusal",TR: TRT 1 4K
+http://ocsunpic.duckdns.org:8080/wz253jbfMp/fajqGMDXsk/544072
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/100.png" group-title="Ulusal",TR: TRT 1 4K
+http://ocsunpic.duckdns.org:8080/selcukmrc/slckmrc/544072
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/100.png" group-title="Ulusal",TR: TRT 1 4K
+http://ocsunpic.duckdns.org:8080/ismailozturk5584/pm9WjqGY/544072
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/100.png" group-title="Ulusal",TR: TRT 1 4K
+http://ocsunpic.duckdns.org:8080/vdTWc1f28G/t22Ujj2u9J/544072
+#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/111.png" group-title="Ulusal",TR: TRT SPOR 4K
+http://ocsunpic.duckdns.org:8080/vdTWc1f28G/t22Ujj2u9J/544077
+#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/111.png" group-title="Ulusal",TR: TRT SPOR 4K
+http://ocsunpic.duckdns.org:8080/GOKHANBABAS/ZeE90EY0A8/544077
+#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/111.png" group-title="Ulusal",TR: TRT SPOR 4K
+http://ocsunpic.duckdns.org:8080/wz253jbfMp/fajqGMDXsk/544077
+#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/111.png" group-title="Ulusal",TR: TRT SPOR 4K
+http://ocsunpic.duckdns.org:8080/selcukmrc/slckmrc/544077
+#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TR: TRT SPOR 4K" tvg-logo="https://uscloudpanel.com/uploads/logomavi/tr/4K/111.png" group-title="Ulusal",TR: TRT SPOR 4K
+http://ocsunpic.duckdns.org:8080/ismailozturk5584/pm9WjqGY/544077
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png",S H O W T V / Test
 http://patlak303.xyz:8080/5070122848/07.09.2022/719
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png",A T V / Test
