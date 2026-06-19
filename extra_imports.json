@@ -1,12 +1,12 @@
 [
   {
     "source_url": "https://link.testworkery0.workers.dev/patron.m3u",
-    "channel_name": "CNN Türk YT",
-    "target_category": "Haber"
+    "channel_name": "Akvaryum",
+    "target_category": "Belgesel"
   },
   {
     "source_url": "https://link.testworkery0.workers.dev/patron.m3u",
     "channel_name": "TGRT Belgesel",
-    "target_category": "Spor"
+    "target_category": "Belgesel"
   }
 ]
