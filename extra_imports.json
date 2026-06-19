@@ -1,12 +1,12 @@
 [
   {
     "source_url": "https://link.testworkery0.workers.dev/patron.m3u",
-    "channel_name": "CNN Türk",
+    "channel_name": "CNN Türk YT",
     "target_category": "Haber"
   },
   {
     "source_url": "https://link.testworkery0.workers.dev/patron.m3u",
-    "channel_name": "beIN Sports 1",
+    "channel_name": "TGRT Belgesel",
     "target_category": "Spor"
   }
 ]
