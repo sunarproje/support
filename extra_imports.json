@@ -8,5 +8,10 @@
     "source_url": "https://link.testworkery0.workers.dev/patron.m3u",
     "channel_name": "TGRT Belgesel",
     "target_category": "Belgesel"
+  },
+  {
+    "source_url": "https://link.testworkery0.workers.dev/patron.m3u",
+    "channel_name": "A Haber -A-",
+    "target_category": "Haber"
   }
 ]
