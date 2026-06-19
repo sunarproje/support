@@ -1,0 +1,12 @@
+[
+  {
+    "source_url": "https://link.testworkery0.workers.dev/patron.m3u",
+    "channel_name": "CNN Türk",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://link.testworkery0.workers.dev/patron.m3u",
+    "channel_name": "beIN Sports 1",
+    "target_category": "Spor"
+  }
+]
