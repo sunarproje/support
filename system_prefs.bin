@@ -7,9 +7,9 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 CUID="36" tvg-name="TRT Avaz" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/60e4f0b9-114c-4feb-949e-b9c6f0a04649.png" group-title="Ulusal",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="",Google Playden Yeni Uygulamayı İndirin.
-https://antalyaakanzi.denek1544.workasders.dev/izle/startv-113.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="",Google Playden Yeni Uygulamayı İndirin.
-https://puhahahahaha.testworker0y.workeasdrs.dev/channel/VHY4IHwgQw==
-#EXTINF:-1 group-title="Ulusal" tvg-logo="" group-title="Ulusal",Google Playden Yeni Uygulamayı İndirin.
-http://patlak303.xyz:8080/5070122848/07.09asd.2022/333042
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/0R76zBFC/logo.png",Beleş TiVi
+https://raw.githubusercontent.com/sunarproje/belestivi-update/refs/heads/main/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/0R76zBFC/logo.png",Beleş TiVi
+https://raw.githubusercontent.com/sunarproje/belestivi-update/refs/heads/main/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/0R76zBFC/logo.png" group-title="Ulusal",Beleş TiVi
+https://raw.githubusercontent.com/sunarproje/belestivi-update/refs/heads/main/playlist.m3u8
