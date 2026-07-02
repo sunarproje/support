@@ -1,15 +1,3 @@
 #EXTM3U x-tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml" url-tvg="https://streams.uzunmuhalefet.com/epg/tr.xml" tvg-url="https://streams.uzunmuhalefet.com/epg/tr.xml"
-#EXTINF:0 CUID="1" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 CUID="13" tvg-name="TRT Haber" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" group-title="Haber",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:0 CUID="35" tvg-name="TRT Türk" tvg-logo="https://cdn.technettv.com/channel/29492/logo_256_1733831875.jpg" group-title="Ulusal",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:0 CUID="36" tvg-name="TRT Avaz" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/60e4f0b9-114c-4feb-949e-b9c6f0a04649.png" group-title="Ulusal",TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/0R76zBFC/logo.png",Beleş TiVi
-https://raw.githubusercontent.com/sunarproje/belestivi-update/refs/heads/main/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/0R76zBFC/logo.png",Beleş TiVi
-https://raw.githubusercontent.com/sunarproje/belestivi-update/refs/heads/main/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/0R76zBFC/logo.png" group-title="Ulusal",Beleş TiVi
 https://raw.githubusercontent.com/sunarproje/belestivi-update/refs/heads/main/playlist.m3u8
