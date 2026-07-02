@@ -34,9 +34,9 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="7/24 Dizi/Film" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
 http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/7004/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="Sinemaaksiyon" group-title="7/24 Dizi/Film" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
-https://midnightblue.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24=.m3u8
+https://65.108.239.207/bsaction1/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="7/24 Dizi/Film" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon 2
-http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/7005/index.m3u8
+https://65.108.239.207/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-id="Sinema Yerli" tvg-name="Sinema Yerli" group-title="7/24 Dizi/Film" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-yerli-tr.png",Sinema Yerli
 https://k.testworkery0.workers.dev/sinemayerli?key=patr0n
 #EXTINF:-1 tvg-id="Sinema Yerli2" tvg-name="Sinema Yerli2" group-title="7/24 Dizi/Film" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-yerli2-tr.png",Sinema Yerli 2
@@ -57,8 +57,8 @@ http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/7002/index.
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/B/IQ/246150/logo.png",MovieSmart Classic
 https://izle.dattavav.workers.dev/?id=1337239933.m3u8
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/x/8J/246018/logo.png",DiziSmart Premium
-https://izle.dattavav.workers.dev/?id=1195429280.m3u8
+#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/x/8J/246018/logo.png",DiziSmart
+http://vipru.linetv.net:8004/stream/YWxhZHlufHxSMkZpY25sek1qQXhNQT09/6976/index.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://dn710207.ca.archive.org/0/items/huseyin-cevik_202605/YANSIMA%20TV_thumb.jpg" group-title="7/24 Dizi/Film",YANSIMA TV SİNEMA
 http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
 #EXTINF:-1 tvg-id="50490" group-title="7/24 Dizi/Film" tvg-logo="https://catcast.tv/assets/no-logo.svg",Komedi Roman Havasi
