@@ -58,7 +58,11 @@ for slug, isim, url in kanallar:
     link = None
     try:
         result = subprocess.run(
-            ["yt-dlp", "--cookies", "cookies.txt", "-f", "best", "-g", url],
+            [
+                "yt-dlp", "--cookies", "cookies.txt",
+                "--extractor-args", "youtube:player_client=tv,web_safari",
+                "-f", "best", "-g", url
+            ],
             capture_output=True, text=True, timeout=20
         )
         cikti = result.stdout.strip()
