@@ -1,12 +1,1 @@
-[
-  {
-    "source_url": "https://link.testworkery0.workers.dev/patron.m3u",
-    "channel_name": "Sözcü Tv YT",
-    "target_category": "Haber"
-  },
-  {
-    "source_url": "https://raw.githubusercontent.com/kadirsener1/avva/refs/heads/main/playlist.m3u",
-    "channel_name": "Akit Tv-Ytube",
-    "target_category": "Haber"
-  }
-]
+
