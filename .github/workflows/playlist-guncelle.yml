@@ -24,8 +24,8 @@ jobs:
 
       - name: Cookie dosyasını hazırla
         env:
-          YT_COOKIES_B64: ${{ secrets.YT_COOKIES_B64 }}
-        run: echo "$YT_COOKIES_B64" | base64 --decode > cookies.txt
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+        run: printf '%s' "$YT_COOKIES" > cookies.txt
 
       - name: Playlist Oluştur
         run: python generate_playlist.py
