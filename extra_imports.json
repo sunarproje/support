@@ -3,5 +3,115 @@
     "source_url": "https://link.testworkery0.workers.dev/patron.m3u",
     "channel_name": "Sözcü Tv YT",
     "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "TRT Haber",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "NTV",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "A Haber",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Haber Turk",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Halk TV",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Sozcu TV",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "TGRT Haber",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Flash Haber",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Haber Global",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "TV 100",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Bloomberg HT",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Bengu Turk",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "KRT TV",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Ulusal Kanal",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Ulke TV",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Eko Turk",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "24 TV",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "A Spor",
+    "target_category": "Spor"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "HT Spor",
+    "target_category": "Spor"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "TV Net",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "Bein Spor Haber",
+    "target_category": "Haber"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/sunarproje/support/main/playlist.m3u",
+    "channel_name": "CNBC-e",
+    "target_category": "Haber"
   }
 ]
