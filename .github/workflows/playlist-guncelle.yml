@@ -11,21 +11,31 @@ jobs:
     steps:
       - name: Depoyu Klonla
         uses: actions/checkout@v4
+
       - name: Python Kur
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: yt-dlp Kur
         run: |
           python -m pip install --upgrade pip
           pip install yt-dlp
+
+      - name: Cookie dosyasını hazırla
+        env:
+          YT_COOKIES_B64: ${{ secrets.YT_COOKIES_B64 }}
+        run: echo "$YT_COOKIES_B64" | base64 --decode > cookies.txt
+
       - name: Playlist Oluştur
         run: python generate_playlist.py
-      # Üçüncü parti paket yerine doğrudan standart Git komutları kullanıyoruz
+
+      - name: Cookie dosyasını sil (repoya sızmasın)
+        run: rm -f cookies.txt
+
       - name: Değişiklikleri Kaydet ve Gönder
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add playlist.m3u
-          # Eğer değişiklik varsa commit et ve pushla, yoksa hata vermeden geç
+          git add playlist.m3u onceki_linkler.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Playlist Update" && git push)
