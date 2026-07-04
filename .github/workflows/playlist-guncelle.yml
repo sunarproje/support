@@ -29,5 +29,3 @@ jobs:
           git add playlist.m3u
           # Eğer değişiklik varsa commit et ve pushla, yoksa hata vermeden geç
           git diff --quiet && git diff --staged --quiet || (git commit -m "Automated Playlist Update" && git push)
-
-bu ne
