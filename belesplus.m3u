@@ -67,8 +67,6 @@ http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
 http://cdn.catcast.workers.dev/50490.m3u8
 #EXTINF:-1 tvg-id="50852" group-title="7/24 Dizi/Film" tvg-logo="https://catcast.tv/assets/no-logo.svg",Retro Filmler
 http://cdn.catcast.workers.dev/50852.m3u8
-#EXTINF:-1 tvg-id="50903" group-title="Belgesel" tvg-logo="https://catcast.tv/assets/no-logo.svg",Belgesel
-http://cdn.catcast.workers.dev/50903.m3u8
 #EXTINF:-1 tvg-id="50168" group-title="7/24 Dizi/Film" tvg-logo="https://catcast.tv/assets/no-logo.svg",Yesilcam TV
 http://cdn.catcast.workers.dev/50168.m3u8
 #EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/r/Xi/246153/logo.png",NHK English
@@ -223,43 +221,42 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 
 
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://image.tmdb.org/t/p/original/iSDRpfySTEXvcEdhnGW9OUVsdNb.png",Kurtlar Vadisi Pusu
-https://yt3.sayezec.workers.dev/@KurtlarVadisi
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://intermedya.tv/wp-content/uploads/2019/10/behzat-c-logo.png",Behzat Ç.
-https://yt3.sayezec.workers.dev/@Behzatc.
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://p.kindpng.com/picc/s/316-3162501_ezel-hd-png-download.png",Ezel
-https://yt3.sayezec.workers.dev/@ezel
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e4/Cocuklar_Duymasin_logo.png",Çocuklar Duymasın
-https://yt3.sayezec.workers.dev/@CocuklarDuymasin‬  
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Istanbullu_Gelin_logo.png",istanbullu Gelin
-https://yt3.sayezec.workers.dev/@istanbullugelindizi
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://mo.ciner.com.tr/showtv/iu/180x180/kizilcik-serbeti.png",Kızılcık Şerbeti
-https://yt3.sayezec.workers.dev/@kizilcikserbetidizi
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://i1.sndcdn.com/artworks-000078736722-nsq1i8-t500x500.jpg",Medcezir
-https://yt3.sayezec.workers.dev/@Medcezirtvdizisi
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://ogmpictures.com/wp-content/uploads/2024/08/yali-capkini-logo.png",Yalı Çapkını
-https://yt3.sayezec.workers.dev/@YaliCapkiniDizi
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e7/Seksenler_logo.png",Seksenler
-https://yt3.sayezec.workers.dev/@seksenlertrt
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w300/q81/34854.png",Yedi Numara
-https://yt3.sayezec.workers.dev/@YedinumaradizisiTRT
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d9/Leyla-ile-mecnun.png",Leyla ile Mecnun
-https://yt3.sayezec.workers.dev/@leylailemecnundizisitrt
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://rgbcreative.net/media/referans/cover/eskiya-dunyaya-hukumdar-olmaz.png",Eşkıya Dünyaya Hükümdar Olmaz
-https://yt3.sayezec.workers.dev/@EDHOatv
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://image.tmdb.org/t/p/w500/smVRA0ewaGuz08UTAtVFLyUCfUM.png",Güldür Güldür
-https://yt3.sayezec.workers.dev/@guldurguldurtv
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/c2420727135311.56360401a120d.jpg",Kardeş Payı
-https://yt3.sayezec.workers.dev/@kardespayitv
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/1/1f/MenajerimiAra.jpg/250px-MenajerimiAra.jpg",Menajerimi Ara
-https://test.sayezec.workers.dev/?id=jAW1wMLUzhg
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ICERDE.png",İçerde
-https://test.sayezec.workers.dev/?id=sSYuidnJ-qk
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/63/GaddarDizi.jpg",Gaddar
-https://test.sayezec.workers.dev/?id=NKi4wB74NrY
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://s.diziler.com/img/content/20-01/02/sifir-bir-filmi.png",Sıfır Bir
-https://yt3.sayezec.workers.dev/@SfrBir
+
 #EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/8/85/20120205005535%21Sihirli_Annem_logosu.png",Sihirli Annem
-https://yt3.sayezec.workers.dev/@SIHIRLIANNEMKANALDOFFICIAL
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://img.favpng.com/24/15/20/red-bull-tv-logo-television-red-bull-street-style-png-favpng-Q0YsjzNKDHqbxexk9HbmybuH4.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
