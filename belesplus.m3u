@@ -249,47 +249,6 @@ https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://image.tmdb.org/t/p/original/iSDRpfySTEXvcEdhnGW9OUVsdNb.png",Kurtlar Vadisi Pusu
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://intermedya.tv/wp-content/uploads/2019/10/behzat-c-logo.png",Behzat Ç.
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://p.kindpng.com/picc/s/316-3162501_ezel-hd-png-download.png",Ezel
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e4/Cocuklar_Duymasin_logo.png",Çocuklar Duymasın
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Istanbullu_Gelin_logo.png",istanbullu Gelin
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://mo.ciner.com.tr/showtv/iu/180x180/kizilcik-serbeti.png",Kızılcık Şerbeti
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://i1.sndcdn.com/artworks-000078736722-nsq1i8-t500x500.jpg",Medcezir
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://ogmpictures.com/wp-content/uploads/2024/08/yali-capkini-logo.png",Yalı Çapkını
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e7/Seksenler_logo.png",Seksenler
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w300/q81/34854.png",Yedi Numara
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d9/Leyla-ile-mecnun.png",Leyla ile Mecnun
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://rgbcreative.net/media/referans/cover/eskiya-dunyaya-hukumdar-olmaz.png",Eşkıya Dünyaya Hükümdar Olmaz
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://image.tmdb.org/t/p/w500/smVRA0ewaGuz08UTAtVFLyUCfUM.png",Güldür Güldür
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/c2420727135311.56360401a120d.jpg",Kardeş Payı
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/1/1f/MenajerimiAra.jpg/250px-MenajerimiAra.jpg",Menajerimi Ara
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ICERDE.png",İçerde
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/63/GaddarDizi.jpg",Gaddar
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://s.diziler.com/img/content/20-01/02/sifir-bir-filmi.png",Sıfır Bir
-
-#EXTINF:-1 tvg-id="Youtube" tvg-name="Youtube" group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/8/85/20120205005535%21Sihirli_Annem_logosu.png",Sihirli Annem
-
 #EXTINF:-1 group-title="Spor" tvg-logo="https://img.favpng.com/24/15/20/red-bull-tv-logo-television-red-bull-street-style-png-favpng-Q0YsjzNKDHqbxexk9HbmybuH4.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="Spor",Trace Sports
@@ -301,5 +260,173 @@ https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fa
 #EXTINF:-1 tvg-logo="https://davidstgcopy.weebly.com/uploads/1/0/4/4/10444349/1152535_orig.png" group-title="Çocuk",Caillou
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikkidscaillou.m3u8
 
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://aysenurtuncay.wordpress.com/wp-content/uploads/2014/07/kemal-sunal.png",Kemal Sunal 1
+https://ctcst.impresents.workers.dev/50433.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://aysenurtuncay.wordpress.com/wp-content/uploads/2014/07/kemal-sunal.png",Kemal Sunal 2
+https://ctcst.impresents.workers.dev/50432.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://aysenurtuncay.wordpress.com/wp-content/uploads/2014/07/kemal-sunal.png",Kemal Sunal 3
+https://ctcst.impresents.workers.dev/50563.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.pinimg.com/564x/79/29/d6/7929d6d1f1aea2b48fc69eb20c283f78.jpg",Şener Şen
+https://ctcst.impresents.workers.dev/50564.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",PREMIUM 1
+https://ctcst.impresents.workers.dev/50732.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",PREMIUM 2
+https://ctcst.impresents.workers.dev/50740.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",PREMIUM 3
+https://ctcst.impresents.workers.dev/50955.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",PREMIUM 4
+https://ctcst.impresents.workers.dev/50960.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",PREMIUM 5
+https://ctcst.impresents.workers.dev/50961.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",PREMIUM 6
+https://ctcst.impresents.workers.dev/51036.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Action
+https://ctcst.impresents.workers.dev/50341.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Action 2
+https://ctcst.impresents.workers.dev/50534.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Action 3
+https://ctcst.impresents.workers.dev/50554.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://ih1.redbubble.net/image.1948750774.8389/raf,360x360,075,t,fafafa:ca443f4786.jpg",ALICE 1
+https://ctcst.impresents.workers.dev/50675.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://ih1.redbubble.net/image.1948750774.8389/raf,360x360,075,t,fafafa:ca443f4786.jpg",ALICE 2
+https://ctcst.impresents.workers.dev/50676.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://ih1.redbubble.net/image.1948750774.8389/raf,360x360,075,t,fafafa:ca443f4786.jpg",ALICE 3
+https://ctcst.impresents.workers.dev/50677.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://w7.pngwing.com/pngs/665/315/png-transparent-antonio-banderas-take-the-lead-actor-high-flying-adored-oh-what-a-circus-bay-celebrities-desktop-wallpaper-film-thumbnail.png",ANTONIO BANDERAS
+https://ctcst.impresents.workers.dev/50726.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://image.tmdb.org/t/p/original/msgutegakwajb9vjC3Xgh4t7e0M.jpg",BOYKA
+https://ctcst.impresents.workers.dev/50718.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://w7.pngwing.com/pngs/637/135/png-transparent-bruce-lee-quest-of-the-dragon-statue-of-bruce-lee-jackie-chan-celebrities-physical-fitness-hand.png",BRUS LEE
+https://ctcst.impresents.workers.dev/50734.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://image.milimaj.com/i/milliyet/75/0x0/6577378986b24423705db8db.jpg",CEHENNEM MELEKLERI
+https://ctcst.impresents.workers.dev/50678.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://images.seeklogo.com/logo-png/25/1/fast-and-furious-energy-drink-logo-png_seeklogo-259681.png",Hızlı ve Öfkeli 1
+https://ctcst.impresents.workers.dev/50715.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://images.seeklogo.com/logo-png/25/1/fast-and-furious-energy-drink-logo-png_seeklogo-259681.png",Hızlı ve Öfkeli 2
+https://ctcst.impresents.workers.dev/50716.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://e7.pngegg.com/pngimages/481/866/png-clipart-godzilla-film-poster-film-poster-godzilla-monster-illustration-horse-poster.png",GODZILLA
+https://ctcst.impresents.workers.dev/50749.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://w7.pngwing.com/pngs/706/416/png-transparent-marvel-ultimate-spider-man-illustration-ultimate-spider-man-spider-man-heroes-superhero-comic-book-thumbnail.png",ÖRUMCEK ADAM
+https://ctcst.impresents.workers.dev/50782.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://p7.hiclipart.com/preview/1016/391/831/ip-man-ip-chun-martial-arts-film-wing-chun-ip-tv.jpg",IP MAN
+https://ctcst.impresents.workers.dev/50754.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.pinimg.com/736x/f3/62/f9/f362f94b04fef9dbce2d0a1189f25d13.jpg",JET LEE
+https://ctcst.impresents.workers.dev/50750.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://www.pngitem.com/pimgs/m/125-1259716_john-wick-logo-png-transparent-png.png",John Wick
+https://ctcst.impresents.workers.dev/50520.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://www.pngitem.com/pimgs/m/125-1259716_john-wick-logo-png-transparent-png.png",John Wick 2
+https://ctcst.impresents.workers.dev/50733.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo-4.png",MARVEL
+https://ctcst.impresents.workers.dev/50783.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo-4.png",MARVEL 2
+https://ctcst.impresents.workers.dev/50784.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo-4.png",MARVEL 3
+https://ctcst.impresents.workers.dev/50785.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo-4.png",MARVEL 4
+https://ctcst.impresents.workers.dev/50943.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo-4.png",MARVEL 5
+https://ctcst.impresents.workers.dev/50944.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo-4.png",MARVEL 6
+https://ctcst.impresents.workers.dev/50945.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://www.derintarih.com/wp-content/uploads/2023/12/MEHMET-ONDER-800x450.jpg",MATRIX
+https://ctcst.impresents.workers.dev/50680.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://pngimg.com/uploads/mortal_kombat/mortal_kombat_PNG66.png",MORTAL COMBAT
+https://ctcst.impresents.workers.dev/50722.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://ih1.redbubble.net/image.3906390218.8274/st,small,507x507-pad,600x600,f8f8f8.jpg",Ölüm Yarışı
+https://ctcst.impresents.workers.dev/50691.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://images.seeklogo.com/logo-png/44/1/rambo-logo-png_seeklogo-446344.png",RAMBO
+https://ctcst.impresents.workers.dev/50690.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Rocky_Balboa_%28Film%29_Logo.png",ROCKY
+https://ctcst.impresents.workers.dev/50714.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-squid-game-official-logo-png-735811697035946tfulfak4ws.png",SQUID GAME 1
+https://ctcst.impresents.workers.dev/50667.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-squid-game-official-logo-png-735811697035946tfulfak4ws.png",SQUID GAME 2
+https://ctcst.impresents.workers.dev/50673.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-squid-game-official-logo-png-735811697035946tfulfak4ws.png",SQUID GAME 3
+https://ctcst.impresents.workers.dev/50674.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://ih1.redbubble.net/image.3753763019.5906/st,small,507x507-pad,600x600,f8f8f8.jpg",Steven Seagal
+https://ctcst.impresents.workers.dev/50730.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://www.pngkey.com/png/detail/782-7826722_the-terminator-monochrome.png",TERMINATOR
+https://ctcst.impresents.workers.dev/50738.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Transformers-Logo.png",TRANSFORMER 1
+https://ctcst.impresents.workers.dev/50723.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Transformers-Logo.png",TRANSFORMER 2
+https://ctcst.impresents.workers.dev/50724.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://www.pngfind.com/pngs/m/380-3801150_universal-logo-universal-pictures-logo-png-transparent-png.png",Universal
+https://ctcst.impresents.workers.dev/50953.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://e7.pngegg.com/pngimages/411/52/png-clipart-brand-logo-material-van-damme-text-logo.png",VAN DAMME
+https://ctcst.impresents.workers.dev/50713.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://e7.pngegg.com/pngimages/411/52/png-clipart-brand-logo-material-van-damme-text-logo.png",VAN DAMME 2
+https://ctcst.impresents.workers.dev/50739.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Madagascar_logo.png/1280px-Madagascar_logo.png",MADAGASCAR
+https://ctcst.impresents.workers.dev/50954.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://w7.pngwing.com/pngs/553/301/png-transparent-ice-age-adventures-logo-ice-age-game-text-logo-thumbnail.png",BUZ DEVRİ
+https://ctcst.impresents.workers.dev/51035.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://www.pngmart.com/files/23/Disney-Logo-PNG-1.png",DISNEY
+https://ctcst.impresents.workers.dev/51038.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://www.vhv.rs/dpng/d/187-1874088_kung-fu-panda-title-png-transparent-png.png",KUNG FU PANDA
+https://ctcst.impresents.workers.dev/50958.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://e7.pngegg.com/pngimages/944/778/png-clipart-lightning-mcqueen-cars-pixar-logo-disney-pixar-text-logo.png",CARS
+https://ctcst.impresents.workers.dev/50941.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.hizliresim.com/zi7dw77c.png",SEVİMLİLER
+https://ctcst.impresents.workers.dev/50576.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.pinimg.com/736x/e4/4c/f4/e44cf44af60cb2cfb40a69ccd5d48706.jpg",TOM ve JERRY
+https://ctcst.impresents.workers.dev/50849.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://e7.pngegg.com/pngimages/461/833/png-clipart-princess-fiona-donkey-youtube-shrek-2-shrek-film-series-donkey-animals-text.png",Şrek&Ejdaha
+https://ctcst.impresents.workers.dev/50957.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",BOLLYWOOD 2
+https://ctcst.impresents.workers.dev/50786.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",YIRTICI 2
+https://ctcst.impresents.workers.dev/50948.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",TURKIYE
+https://ctcst.impresents.workers.dev/50471.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/ajg3czbv.png",Cennet Mahallesi
+https://ctcst.impresents.workers.dev/50489.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/ajg3czbv.png",Cennet Mahallesi 2
+https://ctcst.impresents.workers.dev/50501.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/ajg3czbv.png",Roman Havasi
+https://ctcst.impresents.workers.dev/50490.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Hint Filmleri
+https://ctcst.impresents.workers.dev/50392.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Hint Filmleri 2
+https://ctcst.impresents.workers.dev/50892.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Hint Filmleri 3
+https://ctcst.impresents.workers.dev/50893.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Hint Filmleri 4
+https://ctcst.impresents.workers.dev/50894.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Hint Filmleri 5
+https://ctcst.impresents.workers.dev/50895.m3u8
+#EXTINF:-1 group-title="7/24 Youtube" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Hint Filmleri 6
+https://ctcst.impresents.workers.dev/50897.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",AZFilm
+https://ctcst.impresents.workers.dev/50366.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",AzFilm 2
+https://ctcst.impresents.workers.dev/50373.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Azerbaycan Film
+https://ctcst.impresents.workers.dev/50370.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Azerbaycan-2
+https://ctcst.impresents.workers.dev/50917.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Aze Dublaj 2
+https://ctcst.impresents.workers.dev/50881.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Aze Dublaj 3
+https://ctcst.impresents.workers.dev/50885.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Aze Dublaj 4
+https://ctcst.impresents.workers.dev/50889.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Aze Dublaj 5
+https://ctcst.impresents.workers.dev/50891.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Aze Dublaj 6
+https://ctcst.impresents.workers.dev/50923.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Aze Dublaj 7
+https://ctcst.impresents.workers.dev/50924.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Aze Dublaj 8
+https://ctcst.impresents.workers.dev/50926.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Aze Dublaj 9
+https://ctcst.impresents.workers.dev/50928.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Aze Dublaj 10
+https://ctcst.impresents.workers.dev/50929.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" tvg-id="DreamTurk.tr" ,DREAM TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://catcast.tv/assets/no-logo.svg",PLAYBOX MÜZİK
+https://ctcst.impresents.workers.dev/50657.m3u8
 
 
