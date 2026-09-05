@@ -4,7 +4,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 #EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ae/Tv2_logo_%282026%29.png",Tv2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png",Cnn Türk
-https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/cnn_turk.m3u8
+http://82.70.45.131/GoMax.php?ID=245940
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png",Cnn Türk Yedek
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:85:75:16&stream=259930&extension=ts&play_token=ZtJQzp9HLi
 #EXTINF:0 CUID="54" tvg-name="TLC" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png" group-title="Belgesel",TLC
@@ -16,21 +16,21 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://catcast.tv/assets/no-logo.svg",MÜZİK
 https://ctcst.impresents.workers.dev/50657.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TARIH TV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="BELGESEL",Tarih Tv
-https://cdn.lokkeweb.workers.dev/385695705243789b6f2c45.m3u8
+http://82.70.45.131/GoMax.php?ID=246246
 #EXTINF:-1 tvg-id="Natgeo" tvg-name="Natgeo" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.png",National Geographic
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+https://tr.livev.xyz/geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.png",Natgeo Wild
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
+http://82.70.45.131/GoMax.php?ID=246183
 #EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/bbcearth.png",Bbc Earth
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
+https://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 tvg-id="DocuScreen" tvg-name="DocuScreen" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/docuscreen.png",DocuScreen
-https://nord.ayakkabiparti.lol/docubox/index.m3u8
+https://65.108.239.207/docubox/index.m3u8
 #EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="BELGESEL" tvg-logo="https://i.imgur.com/wRP9XA7.png",Viasathistory
-https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
+http://65.108.239.207/viasathistory/index.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",Discovery Channel
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
+http://82.70.45.131/GoMax.php?ID=245964
 #EXTINF:-1 tvg-id="lovenature" tvg-name="lovenature" group-title="BELGESEL" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",Love Nature 
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+http://82.70.45.131/GoMax.php?ID=246189
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" group-title="Belgesel",Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv1tzH0W/destnat.png" group-title="Belgesel",Destination Nature
