@@ -55,36 +55,48 @@ https://ctcst.impresents.workers.dev/50840.m3u8
 https://ctcst.impresents.workers.dev/50688.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Title_Cards.jpg" group-title="Çocuk",5 MINUTES CRAFT
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/k/yt/246195/logo.png",Sinema TV
-http://82.70.45.131/GoMax.php?ID=246195
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/P/q0/246225/logo.png",Sinema TV 2
-http://82.70.45.131/GoMax.php?ID=246225
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/x/sq/246201/logo.png",Sinema TV Aksiyon
-http://82.70.45.131/GoMax.php?ID=246201
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/k/oS/246198/logo.png",Sinema TV Aksiyon 2
-http://82.70.45.131/GoMax.php?ID=246198
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/t/Ln/246204/logo.png",Sinema TV Aile
-http://82.70.45.131/GoMax.php?ID=246204
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/O/Qp/246207/logo.png",Sinema TV Aile 2
-http://82.70.45.131/GoMax.php?ID=246207
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/o/1l/246210/logo.png",Sinema TV Comedy
-http://82.70.45.131/GoMax.php?ID=246210
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/r/GJ/246213/logo.png",Sinema TV Comedy 2
-http://82.70.45.131/GoMax.php?ID=246213
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/O/LB/246216/logo.png",Sinema TV 1001
-http://82.70.45.131/GoMax.php?ID=246216
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/T/Wj/246219/logo.png",Sinema TV 1002
-http://82.70.45.131/GoMax.php?ID=246219
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/a/4x/245985/logo.png",FilmScreen
-http://82.70.45.131/GoMax.php?ID=245985
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/B/IQ/246150/logo.png",MovieSmart Classic
-http://82.70.45.131/GoMax.php?ID=246150
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/A/Vy/246147/logo.png",MovieSmart Turk
-http://82.70.45.131/GoMax.php?ID=246147
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/D/qo/246015/logo.png",DiziSmart Max
-http://82.70.45.131/GoMax.php?ID=246015
-#EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/-/EV/1301767/logo_50.png",Cosmo EN
-http://82.70.45.131/GoMax.php?ID=1301767
+#EXTINF:-1 tvg-id="1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="7/24 Dizi/Film",Sinema Tv
+http://65.108.239.207/sinema1001/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839032.png" group-title="7/24 Dizi/Film",Sinema Tv 2
+http://65.108.239.207/sinema2/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png" group-title="7/24 Dizi/Film",Sinema Aksiyon
+http://65.108.239.207/sinemaaksiyon/index.m3u8
+#EXTINF:-1 tvg-id="sinemaaksiyon2" tvg-logo="https://img.dsmartgo.com.tr/content/M/RG/22895/Thumbnail.png" tvg-name="Sinema Aksiyon 2" group-title="7/24 Dizi/Film",Sinema Aksiyon 2
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/ae3d90a0-37ee-4e48-a6bc-1375e5f1329a.png" group-title="7/24 Dizi/Film",Sinema Yerli
+http://65.108.239.207/sinemayerli/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8283b71-81f8-4fc6-8e48-6bb8f7f49ad7.png" group-title="7/24 Dizi/Film",Sinema Aile
+http://65.108.239.207/sinemaaile/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8d9fbebd-cade-492d-9cb4-6522cb558794.png" group-title="7/24 Dizi/Film",Sinema 1001
+http://65.108.239.207/sinema1001/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801838773.png" group-title="7/24 Dizi/Film",Sinema 1002
+http://65.108.239.207/sinema1002/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4145ea10-96ad-400d-8870-f22a075f4add.png" group-title="7/24 Dizi/Film",Sinema Komedi
+http://65.108.239.207/sinemakomedi/index.m3u8
+#EXTINF:-1 tvg-id="sinemaaile2" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Action_HD_yeni.png" tvg-name="Sinema Aile 2" group-title="7/24 Dizi/Film",Bein Movies Action HD
+http://65.108.239.207/bsaction1/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="BS STARS" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Stars_HD_yeni.png" group-title="7/24 Dizi/Film",Bein Movies Stars HD
+http://65.108.239.207/bsstars/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595
+#EXTINF:-1 tvg-id="filmscreen" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Family_HD_yeni.png" tvg-name="Film Screen" group-title="7/24 Dizi/Film",Bein Movies Family HD
+http://65.108.239.207/bsfamily/index.m3u8
+#EXTINF:-1 tvg-id="epicdrama" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Premiere_HD_yeni.png" tvg-name="Epic Drama" group-title="7/24 Dizi/Film",Bein Movies Premiere HD
+http://65.108.239.207/bspremier1/index.m3u8
+#EXTINF:-1 tvg-id="sinemakomedi2" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Movies_Turk_HD_yeni.png"" tvg-name="Sinema Komedi 2" group-title="7/24 Dizi/Film",Bein Movies Turk HD
+http://65.108.239.207/bsturk/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="Bein Series HD" tvg-logo="https://w1.pngwing.com/pngs/910/513/png-transparent-network-bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-lyngsat-organization.png" group-title="7/24 Dizi/Film",Bein Series 1 HD
+http://65.108.239.207/bsseries1/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="Bein Series HD" tvg-logo="https://w1.pngwing.com/pngs/910/513/png-transparent-network-bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-lyngsat-organization.png" group-title="7/24 Dizi/Film",Bein Series 2 HD
+http://65.108.239.207/bsseries2/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="Bein Series HD" tvg-logo="https://w1.pngwing.com/pngs/910/513/png-transparent-network-bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-lyngsat-organization.png" group-title="7/24 Dizi/Film",Bein Series 3 HD
+http://65.108.239.207/bsseries3/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="Bein Series HD" tvg-logo="https://w1.pngwing.com/pngs/910/513/png-transparent-network-bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-lyngsat-organization.png" group-title="7/24 Dizi/Film",Bein Series 4 HD
+http://65.108.239.207/bsseries4/index.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="BS BOX OFFİCE 1" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" group-title="7/24 Dizi/Film",BS BOX OFFİCE 1
+http://65.108.239.207/box1/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="BS BOX OFFİCE 2" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-2-hd-buyuk.png" group-title="7/24 Dizi/Film",BS BOX OFFİCE 2
+http://65.108.239.207/box2/index.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="BS BOX OFFİCE 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-3-hd-buyuk.png" group-title="7/24 Dizi/Film",BS BOX OFFİCE 3
+http://65.108.239.207/box3/index.m3u8
 #EXTINF:-1 tvg-id="Fx" tvg-name="Fx" group-title="7/24 Dizi/Film" tvg-logo="https://tvlogolar.xyz/europa/turkey/fx-tr.png",Fx
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://dn710207.ca.archive.org/0/items/huseyin-cevik_202605/YANSIMA%20TV_thumb.jpg" group-title="7/24 Dizi/Film",YANSIMA TV SİNEMA
