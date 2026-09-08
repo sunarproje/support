@@ -35,8 +35,12 @@ http://82.70.45.131/GoMax.php?ID=246189
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv1tzH0W/destnat.png" group-title="Belgesel",Destination Nature
 https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8
+#EXTINF:-1 tvg-id="BabyTv" tvg-name="BabyTv" group-title="ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/45/BabyTV.png",Baby Tv
+https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/disneyjunior.png",Disney Jr
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="cartoonnetwork" group-title="ÇOCUK" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png",Cartoon Network
+https://65.108.239.207/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b8/28/19/b8281908547808405345c66e8add98ec.jpg" group-title="7/24 Dizi/Film",Yeşilçam
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e3/db/e1/e3dbe19f66ad9dec3b1fe514b714c2b4.jpg" group-title="7/24 Dizi/Film",Korku
