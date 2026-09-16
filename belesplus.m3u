@@ -3,10 +3,10 @@
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 #EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ae/Tv2_logo_%282026%29.png",Tv2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
-#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png",Cnn Türk
+#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/960px-CNN_T%C3%BCrk_logo.png",Cnn Türk
 https://lord.mariuannastluisborg.autos/cnn/index.m3u8
-#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png",Cnn Türk Yedek
-https://square-leaf-d613.panorea1000.workers.dev/?xml=ch770
+#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/960px-CNN_T%C3%BCrk_logo.png",Cnn Türk Yedek
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/3489.m3u8
 #EXTINF:0 CUID="54" tvg-name="TLC" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png" group-title="Belgesel",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:0 CUID="55" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/960px-DMAX_Spain_2023_Logo.svg.png" group-title="Belgesel",DMAX
@@ -16,7 +16,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://catcast.tv/assets/no-logo.svg",MÜZİK
 https://ctcst.impresents.workers.dev/50657.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TARIH TV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="BELGESEL",Tarih Tv
-http://82.70.45.131/GoMax.php?ID=246246
+https://65.108.239.207/tarihtv/index.m3u8
 #EXTINF:-1 tvg-id="Natgeo" tvg-name="Natgeo" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.png",National Geographic
 https://tr.livev.xyz/geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.png",Natgeo Wild
