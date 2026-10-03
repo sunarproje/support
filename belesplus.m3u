@@ -263,6 +263,9 @@ https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/G
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://i.ibb.co/XRJMGNW/Beles-Dizi.png", ÇGHB 2
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cghb.m3u8
 
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://i.ibb.co/XRJMGNW/Beles-Dizi.png", Ezel
+https://raw.githubusercontent.com/sunarproje/yt/main/streams/ezel.m3u8
+
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://i.ibb.co/XRJMGNW/Beles-Dizi.png", Emret Komutanım
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Emret-komutanim.m3u8
 
