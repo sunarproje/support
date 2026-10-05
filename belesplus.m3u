@@ -3,7 +3,7 @@
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 #EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ae/Tv2_logo_%282026%29.png",Tv2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://www.meinfernsehen.de/wp-content/uploads/2025/08/eurod.png" group-title="Ulusal - Yurt Dışı",Euro D
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="Ulusal - Yurt Dışı",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png",Cnn Türk
 https://cnn.impresents.workers.dev/canli-yayin.m3u8
@@ -34,7 +34,7 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/db3008c7-02fb-41af-8b99-34e10d5
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/235a6131-82ae-4ab9-bdc0-ea5df67a48cd.m3u
 #EXTINF:-1 tvg-id="lovenature" tvg-name="lovenature" group-title="BELGESEL" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature 
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/e6c0d979-a624-4473-bb58-e2defbd7c907.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" group-title="Belgesel",Nature Time
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Belgesel",Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv1tzH0W/destnat.png" group-title="Belgesel",Destination Nature
 https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8
