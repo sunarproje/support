@@ -18,9 +18,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TARIH TV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="BELGESEL",Tarih Tv
 
-#EXTINF:-1 tvg-id="Natgeo" tvg-name="Natgeo" group-title="BELGESEL" tvg-logo="https://e7.pngegg.com/pngimages/734/750/png-clipart-national-geographic-society-national-geographic-eesti-geography-magazine-geography-miscellaneous-angle.png",National Geographic
+#EXTINF:-1 tvg-id="Natgeo" tvg-name="Natgeo" group-title="BELGESEL" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/a854e116dc73ff4498a45a1b4545c61a/284x160-Q75_a854e116dc73ff4498a45a1b4545c61a.png",National Geographic
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/2c50d6dc-9669-4ff5-a04d-9fad60147cde.m3u
-#EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://w7.pngwing.com/pngs/617/505/png-transparent-paper-logo-line-font-line-angle-white-text.png",Natgeo Wild
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://p.kindpng.com/picc/s/329-3297599_nat-geo-wild-hd-png-download.png",Natgeo Wild
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/e50821ba-9c39-40b1-b6b4-7657ff96b8a0.m3u
 #EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/bbcearth.png",Bbc Earth
 
