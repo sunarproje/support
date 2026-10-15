@@ -20,7 +20,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Natgeo" tvg-name="Natgeo" group-title="BELGESEL" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/a854e116dc73ff4498a45a1b4545c61a/284x160-Q75_a854e116dc73ff4498a45a1b4545c61a.png",National Geographic
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/2c50d6dc-9669-4ff5-a04d-9fad60147cde.m3u
-#EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://p.kindpng.com/picc/s/329-3297599_nat-geo-wild-hd-png-download.png",Natgeo Wild
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://www.kindpng.com/picc/m/329-3297599_nat-geo-wild-hd-png-download.png",Natgeo Wild
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/e50821ba-9c39-40b1-b6b4-7657ff96b8a0.m3u
 #EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/bbcearth.png",Bbc Earth
 
@@ -40,7 +40,7 @@ https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00
 https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8
 #EXTINF:-1 tvg-id="BabyTv" tvg-name="BabyTv" group-title="ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/45/BabyTV.png",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/disneyjunior.png",Disney Jr
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" group-title="ÇOCUK" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801838449.png",Disney Jr
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="cartoonnetwork" group-title="ÇOCUK" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png",Cartoon Network
 https://65.108.239.207/cartoonnetwork/index.m3u8
