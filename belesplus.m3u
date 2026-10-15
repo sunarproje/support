@@ -429,6 +429,10 @@ https://ctcst.impresents.workers.dev/50894.m3u8
 https://ctcst.impresents.workers.dev/50895.m3u8
 #EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",Hint Filmleri 6
 https://ctcst.impresents.workers.dev/50897.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",idman tv [Sadece Azerbaycan]
+https://str.yodacdn.net/idmantele/index.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",CBC Sport [Sadece Azerbaycan]
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",AZFilm
 https://ctcst.impresents.workers.dev/50366.m3u8
 #EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://i.hizliresim.com/kdjw24cr.png",AzFilm 2
