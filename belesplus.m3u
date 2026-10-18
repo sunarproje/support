@@ -27,13 +27,13 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/e50821ba-9c39-40b1-b6b4-7657ff9
 #EXTINF:-1 tvg-id="DocuScreen" tvg-name="DocuScreen" group-title="BELGESEL" tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/docu-screen-qgrlw9k53qtkw9x3e5srongpk03r2ri6ef69wswoky.png",DocuScreen
 https://65.108.239.207/docubox/index.m3u8
 #EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="BELGESEL" tvg-logo="https://i.imgur.com/wRP9XA7.png",Viasathistory
-http://65.108.239.207/viasathistory/index.m3u8
+https://viptine.site/2/vavoo.php?hls=1165670263945583e36e19
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",Discovery Channel
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/db3008c7-02fb-41af-8b99-34e10d569f12.m3u
+https://viptine.site/2/vavoo.php?hls=3079995901347079e2f045
 #EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/235a6131-82ae-4ab9-bdc0-ea5df67a48cd.m3u
+https://viptine.site/2/vavoo.php?hls=20954040600611bde9e160
 #EXTINF:-1 tvg-id="lovenature" tvg-name="lovenature" group-title="BELGESEL" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature 
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/e6c0d979-a624-4473-bb58-e2defbd7c907.m3u
+https://viptine.site/2/vavoo.php?hls=259380083927b83aced3e1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Belgesel",Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv1tzH0W/destnat.png" group-title="Belgesel",Destination Nature
@@ -88,8 +88,8 @@ https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/T
 #EXTINF:-1 group-title="7/24 Dizi/Film" tvg-logo="https://i.ibb.co/XRJMGNW/Beles-Dizi.png", İnci Taneleri
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/inci-taneleri.m3u8
 
-
-
+#EXTINF:-1 tvg-id="Fx" tvg-name="Fx" group-title="7/24 Dizi/Film" tvg-logo="https://tvlogolar.xyz/europa/turkey/fx-tr.png",Fx
+https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="7/24 Dizi/Film",Sinema Tv
 http://65.108.239.207/sinema1001/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839032.png" group-title="7/24 Dizi/Film",Sinema Tv 2
@@ -132,8 +132,6 @@ http://65.108.239.207/box1/index.m3u8
 http://65.108.239.207/box2/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="BS BOX OFFİCE 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-3-hd-buyuk.png" group-title="7/24 Dizi/Film",BS BOX OFFİCE 3
 http://65.108.239.207/box3/index.m3u8
-#EXTINF:-1 tvg-id="Fx" tvg-name="Fx" group-title="7/24 Dizi/Film" tvg-logo="https://tvlogolar.xyz/europa/turkey/fx-tr.png",Fx
-https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 group-title="Dünya" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/r/Xi/246153/logo.png",NHK English
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 group-title="Dünya" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b2d761b5-1822-4531-8f00-51bb232f8afa.png",DW English
