@@ -18,21 +18,21 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TARIH TV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="BELGESEL",Tarih Tv
 
-#EXTINF:-1 tvg-id="Natgeo" tvg-name="Natgeo" group-title="BELGESEL" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/a854e116dc73ff4498a45a1b4545c61a/284x160-Q75_a854e116dc73ff4498a45a1b4545c61a.png",National Geographic
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/2c50d6dc-9669-4ff5-a04d-9fad60147cde.m3u
-#EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://www.kindpng.com/picc/m/329-3297599_nat-geo-wild-hd-png-download.png",Natgeo Wild
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/e50821ba-9c39-40b1-b6b4-7657ff96b8a0.m3u
+#EXTINF:-1 tvg-id="Natgeo" tvg-name="Natgeo" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1778570143261-logoSec.png",National Geographic
+https://kbl.impresents.workers.dev/cable-live/id/national-geographic
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1778570141589-logoSec.png",Natgeo Wild
+https://kbl.impresents.workers.dev/cable-live/id/national-geographic-wild
 #EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/bbcearth.png",Bbc Earth
 
 #EXTINF:-1 tvg-id="DocuScreen" tvg-name="DocuScreen" group-title="BELGESEL" tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/docu-screen-qgrlw9k53qtkw9x3e5srongpk03r2ri6ef69wswoky.png",DocuScreen
 https://65.108.239.207/docubox/index.m3u8
-#EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="BELGESEL" tvg-logo="https://i.imgur.com/wRP9XA7.png",Viasathistory
-https://viptine.site/2/vavoo.php?hls=1165670263945583e36e19
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",Discovery Channel
-https://viptine.site/2/vavoo.php?hls=3079995901347079e2f045
+#EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1779307458767-logoSec.png",Viasat Explore
+https://kbl.impresents.workers.dev/cable-live/id/viasat-explore
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1778570165248-logoSec.png",Discovery Channel
+https://kbl.impresents.workers.dev/cable-live/id/discovery-channel
 #EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID
 https://viptine.site/2/vavoo.php?hls=20954040600611bde9e160
-#EXTINF:-1 tvg-id="lovenature" tvg-name="lovenature" group-title="BELGESEL" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love_nature_logo_white_rgb.png",Love Nature 
+#EXTINF:-1 tvg-id="lovenature" tvg-name="lovenature" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1778570178301-logoSec.png",Love Nature 
 https://viptine.site/2/vavoo.php?hls=259380083927b83aced3e1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Belgesel",Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
