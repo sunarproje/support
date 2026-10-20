@@ -19,17 +19,19 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TARIH TV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="BELGESEL",Tarih Tv
 
 #EXTINF:-1 tvg-id="Natgeo" tvg-name="Natgeo" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1778570143261-logoSec.png",National Geographic
-https://kbl.impresents.workers.dev/cable-live/id/national-geographic
+https://viptine.site/2/vavoo.php?hls=1960546091bcaf052d3800
 #EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1778570141589-logoSec.png",Natgeo Wild
-https://kbl.impresents.workers.dev/cable-live/id/national-geographic-wild
+https://viptine.site/2/vavoo.php?hls=1519237116daf8e783a22b
 #EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/bbcearth.png",Bbc Earth
 
 #EXTINF:-1 tvg-id="DocuScreen" tvg-name="DocuScreen" group-title="BELGESEL" tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/docu-screen-qgrlw9k53qtkw9x3e5srongpk03r2ri6ef69wswoky.png",DocuScreen
 https://65.108.239.207/docubox/index.m3u8
 #EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1779307458767-logoSec.png",Viasat Explore
 https://kbl.impresents.workers.dev/cable-live/id/viasat-explore
+#EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1779307256045-logoSec.png",Viasat History
+https://viptine.site/2/vavoo.php?hls=1335130209de4b92f31496
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1778570165248-logoSec.png",Discovery Channel
-https://kbl.impresents.workers.dev/cable-live/id/discovery-channel
+https://viptine.site/2/vavoo.php?hls=3079995901347079e2f045
 #EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID
 https://viptine.site/2/vavoo.php?hls=20954040600611bde9e160
 #EXTINF:-1 tvg-id="lovenature" tvg-name="lovenature" group-title="BELGESEL" tvg-logo="https://ryok.tvheryerde.com/ake/resize/500/500/channellogos//1778570178301-logoSec.png",Love Nature 
