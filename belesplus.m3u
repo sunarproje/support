@@ -7,13 +7,11 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png",Cnn Türk
 https://cnn.impresents.workers.dev/canli-yayin.m3u8
-#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png",Cnn Türk Yedek
-https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8?token=10a5253f5ee4a368d5ffae3e332099c8
 #EXTINF:0 CUID="54" tvg-name="TLC" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png" group-title="Belgesel",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:0 CUID="55" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/960px-DMAX_Spain_2023_Logo.svg.png" group-title="Belgesel",DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" tvg-id="DreamTurk.tr" ,DREAM TÜRK
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" tvg-id="DreamTurk.tr" ,Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TARIH TV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="BELGESEL",Tarih Tv
@@ -289,6 +287,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",idman tv [Sadece Azerbaycan]
-https://str.yodacdn.net/idmantele/index.m3u8
+https://atakannn19833.lxi.be/vaybe.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2368422760ba45ce579307
 #EXTINF:-1 group-title="AZERBAYCAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png",CBC Sport [Sadece Azerbaycan]
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
