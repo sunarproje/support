@@ -6,7 +6,7 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="Ulusal - Yurt Dışı",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png",Cnn Türk
-https://www.cnnturk.com/canli-yayin
+https://cnn.impresents.workers.dev/canli-yayin.m3u8
 #EXTINF:0 CUID="54" tvg-name="TLC" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png" group-title="Belgesel",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 #EXTINF:0 CUID="55" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/960px-DMAX_Spain_2023_Logo.svg.png" group-title="Belgesel",DMAX
