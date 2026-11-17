@@ -13,8 +13,6 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df4
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" tvg-id="DreamTurk.tr" ,Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/6pm8rnhb.png" group-title="yerel",KANAL 1
-http://176.65.153.40:6002/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TARIH TV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png" group-title="BELGESEL",Tarih Tv
 
